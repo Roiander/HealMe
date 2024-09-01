@@ -1,0 +1,225 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body, html {
+    height: 100%;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.hero-section {
+    height: 100vh;
+    position: relative;
+    overflow: hidden;
+}
+
+/* Contenedor de video */
+.video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    overflow: hidden;
+}
+
+/* Estilos de video */
+video {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+    object-position: center;
+    transform: translate(-50%, -50%);
+    z-index: -1;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+}
+
+.logo img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 2.5rem;
+    margin-bottom: 15px;
+    color: #00cc66;
+}
+
+p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.buttons button {
+    background-color: #00cc66;
+    color: #000;
+    border: none;
+    padding: 15px 30px;
+    margin: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.buttons button:hover {
+    background-color: #00994d;
+}
+
+.buttons button:active {
+    background-color: #007a3a;
+}
+
+/* Sección de descripción */
+.description-section {
+    background-color: #111;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.description-section h2 {
+    font-size: 2rem;
+    color: #00cc66;
+    margin-bottom: 20px;
+}
+
+.description-section p {
+    font-size: 1.2rem;
+    color: #eee;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Sección de Contacto */
+.contact-section {
+    background-color: #222;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    font-size: 2rem;
+    color: #00cc66;
+    margin-bottom: 20px;
+}
+
+.contact-section p {
+    font-size: 1.2rem;
+    color: #ffffff;
+    margin-bottom: 40px;
+}
+
+.contact-section .container {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.contact-section .form-group {
+    margin-bottom: 20px;
+}
+
+.contact-section .form-group label {
+    display: block;
+    font-size: 1rem;
+    color: #ffffff;
+    margin-bottom: 8px;
+}
+
+.contact-section .form-group input,
+.contact-section .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.contact-section .form-group textarea {
+    resize: vertical;
+}
+
+.contact-section button {
+    background-color: #00cc66;
+    color: #fff;
+    border: none;
+    padding: 15px 30px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.contact-section button:hover {
+    background-color: #00994d;
+}
+
+/* Sección de reseñas */
+.reviews-section {
+    background-color: #222;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.review {
+    background-color: #333;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px 0;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.review.show {
+    animation: fadeInUp 0.5s ease-out forwards;
+}
+
+.review img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    margin-bottom: 15px;
+}
+
+.review p {
+    color: #eee;
+    margin-bottom: 10px;
+}
+
+.review span {
+    color: #ccc;
+    font-size: 0.9rem;
+}
+
+/* Animación para las reseñas */
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}

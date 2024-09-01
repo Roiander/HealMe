@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HEALME - Tu Atención Médica Internacional</title>
+    <link rel="stylesheet" href="../css/styles.css">
+</head>
+<body>
+
+    <!-- Sección del Video de fondo -->
+    <section class="hero-section">
+        <div class="video-container">
+            <video autoplay loop muted playsinline>
+                <source src="../video/videolanding.mp4" type="video/mp4">
+                Tu navegador no soporta video HTML5.
+            </video>
+        </div>
+
+        <!-- Contenido principal -->
+        <div class="content">
+            <!-- Logo -->
+            <div class="logo">
+                <img src="../img/logo.png" alt="HEALME Logo">
+            </div>
+
+            <!-- Título y descripción -->
+            <h1>Tu Salud, Dondequiera Que Estés</h1>
+            <p>Atención médica al alcance de tu mano, sin importar en qué parte del mundo te encuentres.</p>
+
+            <!-- Botones de acción -->
+            <div class="buttons">
+                <button id="loginBtn">Iniciar Sesión</button>
+                <button id="signupBtn">Registrarse</button>
+                <button id="contactBtn">Contacto</button>
+            </div>
+        </div>
+    </section>
+
+    <!-- Sección de Descripción -->
+    <section class="description-section">
+        <div class="container">
+            <h2>Sobre HEALME</h2>
+            <p>
+                HEALME es una plataforma diseñada para conectar a viajeros, expatriados y profesionales en el extranjero con servicios médicos confiables, sin importar su ubicación geográfica. 
+                Con HEALME, puedes encontrar clínicas, hospitales y médicos de confianza en tu idioma, comparar precios y calificaciones, y reservar citas con facilidad.
+            </p>
+            <p>
+                Nuestro objetivo es hacer que la atención médica internacional sea accesible, eficiente y segura para todos, 
+                eliminando las barreras de idioma y simplificando el proceso de búsqueda de atención médica de calidad en cualquier parte del mundo.
+            </p>
+        </div>
+    </section>
+
+    <script src="../js/script.js"></script>
+</body>
+
+<!-- Sección de Reseñas -->
+<section class="reviews-section">
+    <div class="container">
+        <h2>Lo que dicen nuestros usuarios</h2>
+        <div class="reviews">
+            <div class="review">
+                <img src="../img/juan_perez.jpg" alt="Juan Pérez">
+                <p>“El mejor servicio médico internacional. Me sentí en buenas manos durante mi viaje.”</p>
+                <span>- Juan Pérez</span>
+            </div>
+            <div class="review">
+                <img src="../img/maria_lopez.jpg" alt="María López">
+                <p>“Atención rápida y eficiente, incluso en un país extranjero. ¡Muy recomendado!”</p>
+                <span>- María López</span>
+            </div>
+            <div class="review">
+                <img src="../img/carlos_rodriguez.jpg" alt="Carlos Rodríguez">
+                <p>“HEALME me ayudó a encontrar una clínica en cuestión de minutos. ¡Excelente servicio!”</p>
+                <span>- Carlos Rodríguez</span>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- Sección de Contacto -->
+<section class="contact-section">
+    <div class="container">
+        <h2>Contacto</h2>
+        <p>Solicita más información llenando el siguiente formulario:</p>
+
+        <form action="enviar_formulario.php" method="POST">
+            <div class="form-group">
+                <label for="name">Nombre:</label>
+                <input type="text" id="name" name="name" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">Correo Electrónico:</label>
+                <input type="email" id="email" name="email" required>
+            </div>
+
+            <div class="form-group">
+                <label for="country">País:</label>
+                <input type="text" id="country" name="country" required>
+            </div>
+
+            <div class="form-group">
+                <label for="city">Ciudad:</label>
+                <input type="text" id="city" name="city" required>
+            </div>
+
+            <div class="form-group">
+                <label for="message">Mensaje:</label>
+                <textarea id="message" name="message" rows="5" required></textarea>
+            </div>
+
+            <button type="submit">Enviar</button>
+        </form>
+    </div>
+</section>
+
+</html>
