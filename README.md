@@ -205,10 +205,100 @@ Costos para el Usuario: Transparencia total en los costos de las consultas y ex�
 
 1.2.2. Lean UX Process  
 1.2.2.1. Lean UX Problem Statements  
+
+Problem 1: los pacientes enfrentan largos tiempos de espera y procedimientos complicados al programar citas
+
+Problem 2: El acceso a diferentes proveedores de atención médica obliga a los pacientes a visitar varios sitios web o realizar varias llamadas para agendar una cita.
+
+Problem 3: Los precios de los test clínicos resultan en costos inesperados para los pacientes que no pueden comparar los precios de diferentes médicos.
+
 1.2.2.2. Lean UX Assumptions  
+
+Assumption 1: los pacientes necesitan una plataforma centralizada que les permite reservar citas con varios profesionales de la salud sin tener que navegar por varios sitios web.
+
+Assumption 2: La fijación de precios transparente y transparente para el tratamiento aumenta la satisfacción del paciente y la confianza en la plataforma.
+
+Assumption 3: Cada vez un número mayor de pacientes, especialmente viajeros o turistas, utilizan servicios que facilitan el acceso rápido a citas médicas en lugares desconocidos.
+
 1.2.2.3. Lean UX Hypothesis Statements  
+
+Hypothesis 1: Si creamos una aplicación web que logre centralizar la reserva de citas médicas, los pacientes podrán encontrar más fácil y rápido el agendar citas.
+
+Hypothesis 2: Si proporcionamos precios transparentes para los servicios médicos en nuestra plataforma, los pacientes se sentirán más seguros en sus elecciones de salud y serán más propensos a reservar a través de nuestra aplicación.
+
+Hypothesis 3: Si ofrecemos la opción de reservar citas basadas en la ubicación con precios transparentes, los viajeros y turistas serán más propensos a utilizar nuestra plataforma cuando busquen servicios médicos en ciudades desconocidas.
+
 1.2.2.4. Lean UX Canvas  
-1.3. Segmentos objetivo  
+
+Business problem
+¿Qué problema de negocio hemos identificado que necesita ayuda?
+
+La dificultad para agendar citas médicas de manera rápida y eficiente, la complejidad en el acceso a múltiples proveedores de salud y la falta de transparencia en los precios de los servicios médicos, estas experiencias suelen ser muy insatisfactorias para los pacientes.
+
+Solution ideas
+
+Una plataforma web centralizada que permita a los pacientes el poder agendar citas con múltiples centros de salud desde un solo lugar.
+
+Funcionalidad de búsqueda por ubicación para encontrar centros de salud cercanos a su ubicación.
+
+Transparencia en los precios de los servicios médicos, permitiendo a los usuarios comprar costos.
+
+Integración de recordatorios automáticos y seguimiento de citas para mejorar la experiencia del paciente 
+
+Business outcomes
+
+Aumento en la cantidad de citas medicas agendadas a traves de la plataforma
+
+Mayor tasa de retención de usuarios que regresan a la plataforma para reservar futuras citas 
+
+Mejora en la satisfacción del cliente reflejada en calificaciones positivas y reseñas
+
+Incremento en el uso de la plataforma por parte de viajeros y turistas para reservar citas médicas en ubicaciones desconocidas.
+
+Users and costumers:
+
+Pacientes locales que buscan facilidad y rapidez al agendar citas médicas.
+
+Viajeros y turistas que necesitan acceso rápido a servicios médicos en ciudades desconocidas.
+
+Centros médicos y clínicas que desean aumentar su visibilidad y accesibilidad para atraer más pacientes.
+
+User Benefits
+
+Agendar citas médicas de manera rápida y sin complicaciones.
+
+Acceder a una variedad de opciones de proveedores de salud en un solo lugar.
+
+Obtener información clara y transparente sobre los costos de los servicios médicos para tomar decisiones informadas.
+
+Facilitar el acceso a servicios médicos mientras están en una ubicación desconocida.
+
+Creemos que un aumento en la cantidad de citas agendadas se logrará si los pacientes locales obtienen facilidad y rapidez en la reserva de citas con una plataforma centralizada.
+
+Creemos que una mayor satisfacción del cliente se logrará si los pacientes obtienen transparencia en los costos de los servicios médicos con la funcionalidad de comparación de precios.
+
+Creemos que un aumento en el uso de la plataforma por parte de viajeros se logrará si los viajeros y turistas obtienen acceso rápido a servicios médicos con la funcionalidad de búsqueda por ubicación.
+
+Whats the most important thing we need to learn first?
+
+Que los pacientes realmente prefieren una plataforma centralizada sobre los métodos tradicionales de reserva de citas.
+
+Que la transparencia en los precios es un factor decisivo para que los pacientes elijan un proveedor de salud.
+
+Que los viajeros y turistas usarán una plataforma web para agendar citas médicas en lugar de buscar asistencia médica localmente.
+
+Whats the leas amount of work we need to do learn the next most importan thing?
+
+Lanzar una versión beta de la plataforma con una selección limitada de proveedores de salud y medir cuántos usuarios completan el proceso de reserva de citas.
+
+Implementar una prueba A/B que compare la reserva de citas con y sin transparencia de precios para evaluar el impacto en la decisión del paciente.
+
+Crear una campaña de marketing dirigida a viajeros y turistas para evaluar el interés y la utilización de la funcionalidad de búsqueda por ubicación.
+
+1.3. Segmentos objetivo. 
+
+Viajeros/Turistas: Personas que se encuentran en una ciudad o país diferente y necesitan acceso rápido a servicios médicos sin conocimiento previo del área. Las características clave para este segmento incluyen la búsqueda basada en la ubicación y la transparencia en los precios para ayudarles a tomar decisiones informadas rápidamente.
+
 
 #### Capítulo II: Requirements Elicitation & Analysis  
 2.1. Competidores  
