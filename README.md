@@ -354,6 +354,35 @@ Obtener información clara y transparente sobre los costos de los servicios méd
 
 Facilitar el acceso a servicios médicos mientras están en una ubicación desconocida.
 
+Hypotheses
+
+Creemos que un aumento en la cantidad de citas agendadas se logrará si los pacientes locales obtienen facilidad y rapidez en la reserva de citas con una plataforma centralizada.
+
+Creemos que una mayor satisfacción del cliente se logrará si los pacientes obtienen transparencia en los costos de los servicios médicos con la funcionalidad de comparación de precios.
+
+Creemos que un aumento en el uso de la plataforma por parte de viajeros se logrará si los viajeros y turistas obtienen acceso rápido a servicios médicos con la funcionalidad de búsqueda por ubicación.
+
+Whats the most important thing we need to learn first?
+
+Que los pacientes realmente prefieren una plataforma centralizada sobre los métodos tradicionales de reserva de citas.
+
+Que la transparencia en los precios es un factor decisivo para que los pacientes elijan un proveedor de salud.
+
+Que los viajeros y turistas usarán una plataforma web para agendar citas médicas en lugar de buscar asistencia médica localmente.
+
+Whats the leas amount of work we need to do learn the next most importan thing?
+
+Lanzar una versión beta de la plataforma con una selección limitada de proveedores de salud y medir cuántos usuarios completan el proceso de reserva de citas.
+
+Implementar una prueba A/B que compare la reserva de citas con y sin transparencia de precios para evaluar el impacto en la decisión del paciente.
+
+Crear una campaña de marketing dirigida a viajeros y turistas para evaluar el interés y la utilización de la funcionalidad de búsqueda por ubicación.
+
+
+1.3. Segmentos objetivo. 
+
+Viajeros/Turistas: Personas que se encuentran en una ciudad o país diferente y necesitan acceso rápido a servicios médicos sin conocimiento previo del área. Las características clave para este segmento incluyen la búsqueda basada en la ubicación y la transparencia en los precios para ayudarles a tomar decisiones informadas rápidamente.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
