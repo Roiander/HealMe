@@ -91,10 +91,118 @@
 
 #### Capítulo I: Introducción
 1.1. Startup Profile  
-1.1.1. Descripción de la Startup  
+1.1.1. Descripción de la Startup 
+Nuestra startup se especializa en ofrecer una solución digital diseñada para turistas y viajeros que requieren acceso inmediato a servicios médicos en una ciudad o país que no conocen por eso hemos decidido crear "HEALME". Nuestra startup permite a los usuarios buscar, comparar y reservar citas médicas en una amplia variedad de especialidades y centros de salud locales. La plataforma facilita el acceso a la atención médica en destinos desconocidos, asegurando que los viajeros puedan recibir el cuidado necesario sin complicaciones.
+
+<div >
+    <strong>Misión:</strong>
+</div>
+
+Nuestra misión es proporcionar a los turistas una herramienta confiable y eficiente para acceder a servicios médicos de calidad en cualquier lugar del mundo. Nos comprometemos a simplificar el proceso de búsqueda y reserva de citas médicas, ofreciendo transparencia en precios y ubicación, y garantizando que los viajeros puedan cuidar de su salud sin estrés, sin importar dónde se encuentren.
+
+
+<div >
+    <strong>Visión:</strong>
+</div>
+
+Nos visualizamos como la plataforma líder global en la gestión de citas médicas para viajeros, reconocida por su capacidad para conectar a turistas con centros de salud locales de manera rápida, segura y transparente. Aspiramos a ser la primera opción para cualquier viajero que necesite acceso inmediato a atención médica en una ciudad desconocida, promoviendo una experiencia de viaje más segura y tranquila.
 1.1.2. Perfiles de integrantes del equipo  
+
+|Descripción del integrante|Perfil del integrante del equipo|
+| :--------| :--------: |
+|Mi nombre es **Luis Angel Cisneros Salas** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la UPC (Universidad Peruana de Ciencias Aplicadas), y actualmente estoy en el quinto ciclo. Gracias a los cursos que he llevado en los últimos ciclos, así como al aprendizaje extracurricular, he adquirido los conocimientos y habilidades necesarios para desarrollarme eficazmente en los proyectos y propuestas de trabajo que ofrecemos. Además, destaco por mi capacidad de empatía, compañerismo y mi rápida adaptación a los cambios, lo cual me permite avanzar de manera colaborativa en los sprints y apoyar a mis compañeros en lo que sea necesario.|![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/FotoPerfil.jpg)
+| Mi nombre es **José Angel Cuevas Vera** y tengo 20 años. Soy estudiante de la carrera de ingeniería de software de la UPC (Universidad Peruana de Ciencias Aplicadas). Estoy en el sexto ciclo de mi carrera. Gracias a los cursos que estuve llevando los últimos ciclos, más el aprendizaje extracurricular, cuento con la capacidad y conocimientos para desarrollarme correctamente con los avances y desarrollo de la propuesta de trabajo que ofrecemos. Por último, destaco mi capacidad de empatía y compañerismo para poder avancar de manera grupal los sprint correspondientes y apoyarme en lo necesario con mis compañeros.
+|Mi nombre es **Diego Jesus Alonso Garay** y tengo 21 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) y actualmente estoy en el quinto ciclo. Me considero una persona intuitiva y busco siempre ver el lado positivo de las cosas, pero siempre con los pies sobre la tierra. Tengo conocimiento en el uso de programas de edición como Photoshop y también sobre el uso básico de lenguajes de programación. Por lo general siempre busco dar lo necesario para realizar un buen trabajo, y en este curso estaré al pendiente de cualquier responsabilidad para realizar correctamente el presente proyecto.|![]*Inserte Imagen*
+|Mi nombre es **Rodrigo Alonso Alcantara Cruz** y tengo 19 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Considero que soy una persona que busca el aprendizaje continuo y siempre intento resolver los problemas de forma rapida y eficaz. Tengo conocimiento en lenguajes de programación. Por lo general siempre intento mejorar mi metodo de estudio para poder expandir mi conocimiento.|![]*Inserte Imagen*
+|Mi nombre es **Jack Eddie Roque Tello** y tengo 20 años. Soy estudiante de la carrera de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC) actualmente estoy en el quinto ciclo. Soy una persona competitiva, siempre en busca de nuevos aprendizajes, con un enfoque en la mejora continua. Tengo conocimientos en varios lenguajes de programación, incluyendo C++, JavaScript y Ruby.             <br>Fuera del ámbito académico, disfruto ver películas, leer y viajar, lo que me ayuda a expandir mis perspectivas y a mantener un equilibrio entre mis responsabilidades y mis pasiones. En este curso, estaré atento a cualquier eventualidad que surja, dispuesto a colaborar y aportar para el éxito del proyecto, siempre en beneficio de mi equipo y mi crecimiento profesional.|![1684133882281](https://hackmd.io/_uploads/HyOVCdJ3C.jpg)
+
 1.2. Solution Profile  
 1.2.1. Antecedentes y problemática  
+Para elaborar este punto del proyecto utilizaremos la tecnica de the 5 'W's y 2 'H's-Who, What, Where,When, Why, How & How Much
+
+<div >
+    <strong>Who (Quiénes):</strong>
+</div>
+
+Usuarios Objetivos: Turistas, viajeros de negocios y nómadas digitales que necesitan acceso a servicios médicos en destinos desconocidos.
+
+Proveedores de Servicios: Hospitales, clínicas, centros médicos y especialistas locales que ofrecen citas o examenes médicos.
+
+<div >
+    <strong>What (Qué):</strong>
+</div>
+
+Qué Ofrecemos: Una plataforma web intuitiva que permite a los usuarios buscar, comparar y reservar citas médicas en una amplia variedad de especialidades y centros de salud locales.
+
+Funcionalidades Clave:
+
+Búsqueda de proveedores médicos por ubicación y especialidad.
+
+Comparación de precios de consultas y exámenes médicos.
+
+Sistema de reservas online en tiempo real.
+
+Reseñas y valoraciones de otros usuarios para guiar las decisiones.
+
+<div >
+    <strong>Where (Dónde):</strong>
+</div>
+
+Ubicación de Uso: La plataforma está diseñada para ser utilizada en cualquier parte del mundo, principalmente en destinos turísticos o ciudades con gran afluencia de viajeros.
+
+Proveedores Locales: Hospitales, clínicas y centros médicos ubicados en las principales ciudades y destinos turísticos.
+
+<div >
+    <strong>When (Cuándo):</strong>
+</div>
+
+Cuándo Usar la Plataforma:
+
+Antes de viajar, para planificar y reservar citas médicas necesarias.
+
+Durante el viaje, para acceder a servicios médicos de emergencia o de rutina en un entorno desconocido.
+
+Disponibilidad: La plataforma está disponible 24/7, permitiendo a los usuarios hacer reservas en cualquier momento.
+
+<div >
+    <strong>Why (Por qué):</strong>
+</div>
+
+Problema que Soluciona: La dificultad de acceder a servicios médicos confiables y transparentes en términos de precios cuando se está en un destino desconocido.
+
+Beneficios:
+
+Reducción del estrés asociado con encontrar atención médica en un lugar desconocido.
+
+Transparencia en los costos, lo que permite a los usuarios tomar decisiones informadas.
+
+Conveniencia y ahorro de tiempo al poder hacer todo desde una única plataforma.
+
+<div >
+    <strong>How (Cómo):</strong>
+</div>
+
+Cómo Funciona:
+Los usuarios ingresan a la plataforma desde cualquier dispositivo con acceso a internet.
+
+Seleccionan la ubicación, especialidad médica, y comparan opciones disponibles.
+
+Reservan su cita directamente a través de la plataforma, recibiendo confirmación inmediata.
+
+Integración con Proveedores: La plataforma está integrada con los sistemas de los centros médicos locales para reflejar disponibilidad en tiempo real.
+
+<div >
+    <strong>How Much (Cuánto):</strong>
+</div>
+
+Modelo de Negocio:
+
+Para Usuarios: La plataforma puede ofrecer servicios básicos gratuitos con la opción de planes premium que incluyan características adicionales como asistencia personalizada, traducción de idiomas o seguros de cancelación de citas.
+
+Para Proveedores: Los centros médicos podrían pagar una tarifa por aparecer en la plataforma o una comisión por cada cita reservada a través de la misma.
+
+Costos para el Usuario: Transparencia total en los costos de las consultas y exámenes médicos antes de la reserva, con la posibilidad de comparar entre diferentes proveedores.
+
 1.2.2. Lean UX Process  
 1.2.2.1. Lean UX Problem Statements  
 1.2.2.2. Lean UX Assumptions  
