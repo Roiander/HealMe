@@ -874,6 +874,31 @@ Objetivo: Evaluar la disposición a colaborar con HealMe y explorar posibles inc
 **6.¿Cree que la implementación de reseñas y valoraciones de pacientes en la plataforma HealMe sería beneficiosa o perjudicial para su centro de salud? ¿Por qué?**
 Objetivo: Explorar percepciones sobre la transparencia y retroalimentación de pacientes como herramienta de mejora continua y atracción de nuevos clientes.
 
+###    2.2.2. Registro de entrevistas. 
+
+### Entrevista con Elmer Alcántara
+Entrevista 1:
+- **Edad**: 
+- **Departamento**: 
+- **Duración**: 11:51
+- **URL**: https://drive.google.com/file/d/1mgK6X_oyVk5wCBiQ--dpR2yQBdxdIa3c/view?usp=sharing
+
+**Resumen**:
+Elmer Alcántara un abogado nos comenta que suele viajar fuera de lima, el ha experimentado varios casos donde necesitaba encontrar atencion medica y dependía de preguntar a lo hoteles o hostales si habia boticas cerca para comprar medicamentos, nos comentó que sería bueno implementar un boton donde podamos cambiar el idioma para asi facilitar a los turistas extranjeros.
+
+### Entrevista con Ignacio Peveri
+
+- **Edad**: 20 años
+- **Departamento**: Buenos Aires Argentina
+- **Duración**: 14:31
+- **URL**: https://drive.google.com/file/d/1lRRY6Hn-y8Jt5_uSEHY-FB6Vc6-PSJ-g/view?usp=sharing
+
+**Resumen**:
+En esta entrevista Ignacio Peveri, más conocido como Tuti (Nombre Artistico), nos cuenta como son sus experiencias en el extranjero y que dificultades presenta con su equipo de trabajo en algunas situaciones. El entrevistado manifiesta que le gustaría bastante la idea sobre una aplicación que le ahorre el tiempo en busqueda sobre asistencia médica confiable. 
+
+###    2.2.3. Análisis de entrevistas. 
+Entrevista 1: Elmer Alcántara un abogado nos comenta que suele viajar fuera de lima, el ha experimentado varios casos donde necesitaba encontrar atencion medica y dependía de preguntar a lo hoteles o hostales si habia boticas cerca para comprar medicamentos, nos comentó que sería bueno implementar un boton donde podamos cambiar el idioma para asi facilitar a los turistas extranjeros.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
