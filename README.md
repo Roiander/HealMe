@@ -825,12 +825,8 @@ En este Sprint, hemos logrado implementar las funcionalidades principales de la 
 
 | **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
 |------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
-|    |     |       |                |             | 2024-09-01              |
-|    |     |       |                |             | 2024-09-02              |
-|    |    |        |                |          | 2024-09-03              |
-|    |    |       |                 |           | 2024-09-04              |
-|    |    |       |                 |           | 2024-09-01              |
-|    |     |       |                |            | 2024-09-03              |
+|  Healme  |  main  |    index.html   |      index.html file added           |       Landing Added      | 2024-09-01              |
+
 
 ### 5.2.X.4. Testing Suite Evidence for Sprint Review. 
 
@@ -838,9 +834,10 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 
 | **Repository**      | **Branch**           | **Commit ID** | **Commit Message**                              | **Commit Message Body**                                                                  | **Committed on (Date)** |
 |---------------------|----------------------|---------------|-------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------|
-| healme-testing      | feature/tests         | a1b2c3d       | Add Unit Tests for LocationService               | Added Unit Tests to validate geolocation-based clinic searches.                           | 2024-09-03              |
-| healme-testing      | feature/tests         | e4f5g6h       | Add Integration Tests for Clinic search          | Added Integration Tests for clinic search with specialties filter.                        | 2024-09-04              |
-| healme-testing      | feature/tests         | i7j8k9l       | Add BDD Tests for Appointment Booking            | Added BDD tests for booking appointments and receiving confirmation.                      | 2024-09-05              |
+| Healme      | main         | US-003.feature       | Create US-003.feature          | Añadido del Acceptance-Test.                      | 2024-09-03              |
+| Healme      | main         | US-005.feature       | Create US-005.feature          | Añadido del Acceptance-Test.                      | 2024-09-04              |
+| Healme      | main         | US-006.feature       | Create US-006.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
+| Healme      | main         | US-009.feature       | Create US-009.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
 
 ### 5.2.X.5. Execution Evidence for Sprint Review. 
 
@@ -862,8 +859,9 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
    
 ### 5.2.X.6. Services Documentation Evidence for Sprint Review. 
 
-
 ### 5.2.X.7. Software Deployment Evidence for Sprint Review. 
+
+
 ### 5.2.X.8. Team Collaboration Insights during Sprint.
 
 
