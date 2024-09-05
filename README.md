@@ -793,9 +793,9 @@ En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codific
 | Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
 | Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
 
-5.2.X.2. Sprint Backlog n. 
+### 5.2.X.2. Sprint Backlog n. 
 
-### Sprint Backlog - Sprint 1
+### Sprint 1
 
 ### Objetivo Principal del Sprint
 
@@ -815,9 +815,9 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 
 
-5.2.X.3. Development Evidence for Sprint Review. 
+### 5.2.X.3. Development Evidence for Sprint Review. 
 
-### Development Evidence for Sprint Review - Sprint 1
+### Sprint 1
 
 En este Sprint, hemos logrado implementar las funcionalidades principales de la plataforma HealMe, como la reserva de citas médicas, la confirmación de reservas, y la visualización del historial de citas. Estas implementaciones corresponden a las secciones críticas de la plataforma, permitiendo a los usuarios acceder a servicios médicos en ubicaciones desconocidas. A continuación, se presentan los avances en la implementación a través de los commits realizados en los repositorios involucrados en el desarrollo de estas funcionalidades.
 
@@ -832,23 +832,32 @@ En este Sprint, hemos logrado implementar las funcionalidades principales de la 
 |    |    |       |                 |           | 2024-09-01              |
 |    |     |       |                |            | 2024-09-03              |
 
-5.2.X.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.X.4. Testing Suite Evidence for Sprint Review. 
 
 
-5.2.X.5. Execution Evidence for Sprint Review. 
+### 5.2.X.5. Execution Evidence for Sprint Review. 
 
 1. **Inicio de sesión**: Se implementó la funcionalidad de inicio de sesión con autenticación de usuarios y manejo de sesiones.
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping4.jpg)
 2. **Reserva de citas**: Los usuarios ahora pueden reservar citas a través de la plataforma. Se agregó un formulario de reserva y lógica para guardar las reservas en la base de datos.
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping5.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
 3. **Historial de citas**: Se desarrolló la página donde los usuarios pueden ver el historial de citas que han tenido anteriormente.
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping6.jpg)
 4. **Confirmación de reserva**: Se añadió una página de confirmación que se muestra después de que una reserva es exitosa, además de enviar notificaciones por correo electrónico.
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
 5. **Comparación de clínicas**: Se agregó la función de comparar clínicas por calificaciones y reseñas de otros usuarios.
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications8.jpg)
 
    
-5.2.X.6. Services Documentation Evidence for Sprint Review. 
+### 5.2.X.6. Services Documentation Evidence for Sprint Review. 
 
 
-5.2.X.7. Software Deployment Evidence for Sprint Review. 
-5.2.X.8. Team Collaboration Insights during Sprint.
+### 5.2.X.7. Software Deployment Evidence for Sprint Review. 
+### 5.2.X.8. Team Collaboration Insights during Sprint.
 
 
 
