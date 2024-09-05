@@ -861,7 +861,7 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 ## Servicios Documentación Evidencia para la Revisión del Sprint
 
 ### Introducción
-Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints implementados, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma.
+Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma.
 
 ### Tabla de Endpoints
 
@@ -879,14 +879,8 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 
 ### Capturas de Pantalla
 
-1. **Endpoint de Inicio de Sesión**
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+![image](https://github.com/user-attachments/assets/9bd760c4-d313-4bc2-9df0-9b482ba83e45)
 
-2. **Endpoint de Comparación de Clínicas**
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
-
-3. **Endpoint de Reserva de Citas**
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
 
 
 
