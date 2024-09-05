@@ -119,92 +119,6 @@
 2.4. Ubiquitous Language  
 
 #### Capítulo III: Requirements Specification  
-## 3.1. To-Be Scenario Mapping. 
-
-El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios resuelven sus problemas con nuestra solución, subsanando las ineficiencias y puntos de dolor.
-
-| **Escenario**                           | **Fase**       | **Descripción**                                                                                                                       |
-|-----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| **1. Turista buscando atención médica**  | **Doing**      | El turista accede a HEALME, selecciona su ubicación actual y elige entre una lista de clínicas y centros médicos recomendados.         |
-|                                          | **Thinking**   | "Qué fácil fue encontrar clínicas con buenas calificaciones y precios claros. Puedo elegir la que mejor se adapte a mis necesidades."  |
-|                                          | **Feeling**    | Alivio y confianza al saber que ha encontrado una opción confiable sin complicaciones.                                                |
-| **2. Ejecutivo en viaje de negocios**    | **Doing**      | El ejecutivo usa HEALME para encontrar un médico disponible en su área, reservando una cita en su idioma preferido.                   |
-|                                          | **Thinking**   | "Esta plataforma es eficiente y me permite optimizar mi tiempo. Puedo ver la disponibilidad y reservar sin problemas."                |
-|                                          | **Feeling**    | Tranquilidad y satisfacción por la rapidez y facilidad del proceso, sin afectar su agenda laboral.                                    |
-| **3. Trabajador expatriado**             | **Doing**      | El expatriado usa HEALME para encontrar clínicas que ofrecen servicios en su idioma y compara precios antes de reservar.              |
-|                                          | **Thinking**   | "Qué conveniente es poder encontrar y reservar una cita en mi idioma sin malentendidos."                                               |
-|                                          | **Feeling**    | Seguridad y confianza al poder comunicarse claramente y saber que recibirá el cuidado adecuado.                                       |
-| **4. Doctor buscando empleo en el extranjero** | **Doing**  | El doctor usa HEALME para explorar oportunidades laborales, revisando las ofertas de trabajo en clínicas y hospitales en el extranjero. |
-|                                          | **Thinking**   | "Puedo ver las valoraciones y la cultura laboral antes de tomar una decisión. Esto facilita mucho mi búsqueda de empleo."             |
-|                                          | **Feeling**    | Entusiasmo y tranquilidad por tener acceso a información clave que le ayuda a tomar una decisión informada.                          |
-
-## 3.2. User Stories. 
-
-| **Epic ID** | **Título**                                      | **Descripción**                                                                                   |
-|-------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------|
-| EP-01      | Búsqueda de servicios médicos                   | Implementar la funcionalidad que permita a los usuarios buscar servicios médicos en su ubicación.  |
-| EP-02      | Comparación de opciones                         | Permitir a los usuarios comparar diferentes clínicas y centros médicos basados en calificaciones y precios. |
-| EP-03      | Reserva de citas médicas                        | Habilitar la funcionalidad para que los usuarios reserven citas médicas directamente desde la plataforma. |
-| EP-04      | Integración con mapas                           | Integrar la plataforma con mapas para mostrar la ubicación exacta de las clínicas y centros médicos. |
-| EP-05      | Gestión de perfiles de usuario                  | Permitir a los usuarios crear y gestionar perfiles para almacenar información médica y preferencias. |
-
-
-| **User Story ID** | **Título**                                           | **Descripción**                                                                                                        | **Criterios de Aceptación**                                                                                         | **Relacionado con (Epic ID)** |
-|---------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| US-01              | Búsqueda por ubicación                               | Como turista, quiero buscar clínicas cercanas a mi ubicación actual para encontrar atención médica rápidamente.         | - Dado que el usuario ha permitido la geolocalización, cuando busca una clínica, entonces se muestran las más cercanas. | EP-01                         |
-| US-02              | Filtrado por especialidad                            | Como usuario, quiero filtrar las clínicas por especialidad para encontrar el tipo de atención médica que necesito.      | - Dado que el usuario selecciona una especialidad, cuando realiza la búsqueda, entonces solo se muestran clínicas de esa especialidad. | EP-01                         |
-| US-03              | Comparación de clínicas                              | Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios.           | - Dado que el usuario selecciona dos o más clínicas, cuando realiza la comparación, entonces se muestran sus calificaciones y precios lado a lado. | EP-02                         |
-| US-04              | Visualización de detalles de clínicas                | Como usuario, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita.      | - Dado que el usuario selecciona una clínica, cuando accede a su perfil, entonces se muestran detalles como horarios, especialidades, y calificaciones. | EP-02                         |
-| US-05              | Reserva de citas médicas                             | Como turista, quiero reservar una cita médica desde la plataforma para asegurarme de que me atenderán a tiempo.         | - Dado que el usuario ha seleccionado una clínica, cuando elige un horario disponible, entonces la cita se reserva en el sistema. | EP-03                         |
-| US-06              | Confirmación de reserva                              | Como usuario, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada.          | - Dado que el usuario ha reservado una cita, cuando finaliza el proceso, entonces recibe una confirmación por email y en la plataforma. | EP-03                         |
-| US-07              | Visualización de ubicación en el mapa                | Como turista, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente.             | - Dado que el usuario ha seleccionado una clínica, cuando accede a su perfil, entonces la ubicación se muestra en un mapa integrado. | EP-04                         |
-| US-08              | Navegación hasta la clínica                          | Como usuario, quiero recibir instrucciones de navegación desde mi ubicación actual hasta la clínica.                   | - Dado que el usuario ha seleccionado una clínica en el mapa, cuando elige "Navegar", entonces se generan las instrucciones para llegar. | EP-04                         |
-| US-09              | Creación de perfil de usuario                        | Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas.          | - Dado que el usuario elige crear un perfil, cuando ingresa su información, entonces se guarda en su cuenta para futuras referencias. | EP-05                         |
-| US-10              | Actualización de perfil de usuario                   | Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas.      | - Dado que el usuario ha iniciado sesión, cuando actualiza su información médica o preferencias, entonces se guarda correctamente. | EP-05                         |
-
-## 3.3. Impact Mapping. 
-
-**Business Goal**: Incrementar la visibilidad y confiabilidad de la plataforma, alcanzando una calificación de 4.5 estrellas en las reseñas de usuarios en los próximos 10 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Turista en búsqueda de atención médica | Dejar reseñas positivas y compartir su experiencia con otros usuarios.                        | - Implementar un sistema de calificaciones y reseñas dentro de la plataforma.                  | - Como turista, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita. |
-|                                     |                                                                                             | - Crear incentivos para que los usuarios dejen reseñas después de sus citas.                    | - Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios. |
-|                                     |                                                                                             | - Desarrollar una sección de testimonios y casos de éxito visibles en la plataforma y en redes sociales. | - Como usuario, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente. |
-
-
-**Business Goal**: Aumentar la retención de usuarios recurrentes en un 20% en los próximos 12 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Trabajador expatriado               | Crear un perfil y actualizar su información regularmente para facilitar futuras reservas.    | - Desarrollo de perfiles personalizados donde los usuarios puedan guardar su historial médico y preferencias. | - Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas. |
-|                                     |                                                                                             | - Integrar funcionalidades de actualización de perfil y notificación de cambios relevantes en servicios. | - Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas. |
-|                                     |                                                                                             | - Ofrecer incentivos o descuentos por mantener el perfil actualizado y realizar reservas frecuentes. |                                                                                                            |
-
-
-**Business Goal**: Reducir la tasa de cancelación de citas a menos del 5% en los próximos 6 meses.
-
-| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
-|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| Ejecutivo en viaje de negocios       | Reservar citas en horarios que no interfieran con su agenda laboral y recibir confirmaciones rápidas. | - Implementar un sistema de reservas con opciones de horarios flexibles y notificaciones en tiempo real. | - Como ejecutivo, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada. |
-|                                     |                                                                                             | - Integrar recordatorios automáticos antes de la cita para reducir el riesgo de cancelación.  | - Como ejecutivo, quiero ver la disponibilidad de médicos y reservar en horarios que no interfieran con mi agenda laboral. |
-
-## 3.4. Product Backlog.
-
-| # Orden | User Story Id | Título                            | Descripción                                                                                                           | Story Points (1 / 2 / 3 / 5 / 8) |
-|---------|---------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|
-| 1       | US-01        | Búsqueda por ubicación           | Como turista, quiero buscar clínicas cercanas a mi ubicación actual para encontrar atención médica rápidamente.       | 3                               |
-| 2       | US-05        | Reserva de citas médicas         | Como turista, quiero reservar una cita médica desde la plataforma para asegurarme de que me atenderán a tiempo.       | 5                               |
-| 3       | US-06        | Confirmación de reserva          | Como usuario, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada.        | 2                               |
-| 4       | US-03        | Comparación de clínicas          | Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios.         | 5                               |
-| 5       | US-04        | Visualización de detalles        | Como usuario, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita.    | 3                               |
-| 6       | US-02        | Filtrado por especialidad        | Como usuario, quiero filtrar las clínicas por especialidad para encontrar el tipo de atención médica que necesito.    | 3                               |
-| 7       | US-07        | Visualización de ubicación       | Como turista, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente.           | 2                               |
-| 8       | US-08        | Navegación hasta la clínica      | Como usuario, quiero recibir instrucciones de navegación desde mi ubicación actual hasta la clínica.                 | 5                               |
-| 9       | US-09        | Creación de perfil de usuario    | Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas.        | 3                               |
-| 10      | US-010        | Actualización de perfil de usuario | Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas.    | 2                               |
-
-
 3.1. To-Be Scenario Mapping  
 3.2. User Stories  
 3.3. Impact Mapping  
@@ -372,6 +286,94 @@ El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios
 - **Atención de emergencia**: Servicio prioritario que conecta a los usuarios con proveedores de servicios médicos en situaciones de urgencia.
   
 - **Seguridad y privacidad**: Normas y prácticas que garantizan la protección de los datos personales y médicos de los usuarios.
+
+
+# Capítulo III: Requirements Specification  
+## 3.1. To-Be Scenario Mapping. 
+
+El **To-Be Scenario Mapping** describe el escenario actual de cómo los usuarios resuelven sus problemas con nuestra solución, subsanando las ineficiencias y puntos de dolor.
+
+| **Escenario**                           | **Fase**       | **Descripción**                                                                                                                       |
+|-----------------------------------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------|
+| **1. Turista buscando atención médica**  | **Doing**      | El turista accede a HEALME, selecciona su ubicación actual y elige entre una lista de clínicas y centros médicos recomendados.         |
+|                                          | **Thinking**   | "Qué fácil fue encontrar clínicas con buenas calificaciones y precios claros. Puedo elegir la que mejor se adapte a mis necesidades."  |
+|                                          | **Feeling**    | Alivio y confianza al saber que ha encontrado una opción confiable sin complicaciones.                                                |
+| **2. Ejecutivo en viaje de negocios**    | **Doing**      | El ejecutivo usa HEALME para encontrar un médico disponible en su área, reservando una cita en su idioma preferido.                   |
+|                                          | **Thinking**   | "Esta plataforma es eficiente y me permite optimizar mi tiempo. Puedo ver la disponibilidad y reservar sin problemas."                |
+|                                          | **Feeling**    | Tranquilidad y satisfacción por la rapidez y facilidad del proceso, sin afectar su agenda laboral.                                    |
+| **3. Trabajador expatriado**             | **Doing**      | El expatriado usa HEALME para encontrar clínicas que ofrecen servicios en su idioma y compara precios antes de reservar.              |
+|                                          | **Thinking**   | "Qué conveniente es poder encontrar y reservar una cita en mi idioma sin malentendidos."                                               |
+|                                          | **Feeling**    | Seguridad y confianza al poder comunicarse claramente y saber que recibirá el cuidado adecuado.                                       |
+| **4. Doctor buscando empleo en el extranjero** | **Doing**  | El doctor usa HEALME para explorar oportunidades laborales, revisando las ofertas de trabajo en clínicas y hospitales en el extranjero. |
+|                                          | **Thinking**   | "Puedo ver las valoraciones y la cultura laboral antes de tomar una decisión. Esto facilita mucho mi búsqueda de empleo."             |
+|                                          | **Feeling**    | Entusiasmo y tranquilidad por tener acceso a información clave que le ayuda a tomar una decisión informada.                          |
+
+## 3.2. User Stories. 
+
+| **Epic ID** | **Título**                                      | **Descripción**                                                                                   |
+|-------------|-------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| EP-01      | Búsqueda de servicios médicos                   | Implementar la funcionalidad que permita a los usuarios buscar servicios médicos en su ubicación.  |
+| EP-02      | Comparación de opciones                         | Permitir a los usuarios comparar diferentes clínicas y centros médicos basados en calificaciones y precios. |
+| EP-03      | Reserva de citas médicas                        | Habilitar la funcionalidad para que los usuarios reserven citas médicas directamente desde la plataforma. |
+| EP-04      | Integración con mapas                           | Integrar la plataforma con mapas para mostrar la ubicación exacta de las clínicas y centros médicos. |
+| EP-05      | Gestión de perfiles de usuario                  | Permitir a los usuarios crear y gestionar perfiles para almacenar información médica y preferencias. |
+
+
+| **User Story ID** | **Título**                                           | **Descripción**                                                                                                        | **Criterios de Aceptación**                                                                                         | **Relacionado con (Epic ID)** |
+|---------------------|------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| US-01              | Búsqueda por ubicación                               | Como turista, quiero buscar clínicas cercanas a mi ubicación actual para encontrar atención médica rápidamente.         | - Dado que el usuario ha permitido la geolocalización, cuando busca una clínica, entonces se muestran las más cercanas. | EP-01                         |
+| US-02              | Filtrado por especialidad                            | Como usuario, quiero filtrar las clínicas por especialidad para encontrar el tipo de atención médica que necesito.      | - Dado que el usuario selecciona una especialidad, cuando realiza la búsqueda, entonces solo se muestran clínicas de esa especialidad. | EP-01                         |
+| US-03              | Comparación de clínicas                              | Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios.           | - Dado que el usuario selecciona dos o más clínicas, cuando realiza la comparación, entonces se muestran sus calificaciones y precios lado a lado. | EP-02                         |
+| US-04              | Visualización de detalles de clínicas                | Como usuario, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita.      | - Dado que el usuario selecciona una clínica, cuando accede a su perfil, entonces se muestran detalles como horarios, especialidades, y calificaciones. | EP-02                         |
+| US-05              | Reserva de citas médicas                             | Como turista, quiero reservar una cita médica desde la plataforma para asegurarme de que me atenderán a tiempo.         | - Dado que el usuario ha seleccionado una clínica, cuando elige un horario disponible, entonces la cita se reserva en el sistema. | EP-03                         |
+| US-06              | Confirmación de reserva                              | Como usuario, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada.          | - Dado que el usuario ha reservado una cita, cuando finaliza el proceso, entonces recibe una confirmación por email y en la plataforma. | EP-03                         |
+| US-07              | Visualización de ubicación en el mapa                | Como turista, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente.             | - Dado que el usuario ha seleccionado una clínica, cuando accede a su perfil, entonces la ubicación se muestra en un mapa integrado. | EP-04                         |
+| US-08              | Navegación hasta la clínica                          | Como usuario, quiero recibir instrucciones de navegación desde mi ubicación actual hasta la clínica.                   | - Dado que el usuario ha seleccionado una clínica en el mapa, cuando elige "Navegar", entonces se generan las instrucciones para llegar. | EP-04                         |
+| US-09              | Creación de perfil de usuario                        | Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas.          | - Dado que el usuario elige crear un perfil, cuando ingresa su información, entonces se guarda en su cuenta para futuras referencias. | EP-05                         |
+| US-10              | Actualización de perfil de usuario                   | Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas.      | - Dado que el usuario ha iniciado sesión, cuando actualiza su información médica o preferencias, entonces se guarda correctamente. | EP-05                         |
+
+## 3.3. Impact Mapping. 
+
+**Business Goal**: Incrementar la visibilidad y confiabilidad de la plataforma, alcanzando una calificación de 4.5 estrellas en las reseñas de usuarios en los próximos 10 meses.
+
+| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Turista en búsqueda de atención médica | Dejar reseñas positivas y compartir su experiencia con otros usuarios.                        | - Implementar un sistema de calificaciones y reseñas dentro de la plataforma.                  | - Como turista, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita. |
+|                                     |                                                                                             | - Crear incentivos para que los usuarios dejen reseñas después de sus citas.                    | - Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios. |
+|                                     |                                                                                             | - Desarrollar una sección de testimonios y casos de éxito visibles en la plataforma y en redes sociales. | - Como usuario, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente. |
+
+
+**Business Goal**: Aumentar la retención de usuarios recurrentes en un 20% en los próximos 12 meses.
+
+| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Trabajador expatriado               | Crear un perfil y actualizar su información regularmente para facilitar futuras reservas.    | - Desarrollo de perfiles personalizados donde los usuarios puedan guardar su historial médico y preferencias. | - Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas. |
+|                                     |                                                                                             | - Integrar funcionalidades de actualización de perfil y notificación de cambios relevantes en servicios. | - Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas. |
+|                                     |                                                                                             | - Ofrecer incentivos o descuentos por mantener el perfil actualizado y realizar reservas frecuentes. |                                                                                                            |
+
+
+**Business Goal**: Reducir la tasa de cancelación de citas a menos del 5% en los próximos 6 meses.
+
+| **Actor/Persona**                   | **Impacto**                                                                                  | **Deliverables**                                                                               | **User Stories**                                                                                           |
+|-------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| Ejecutivo en viaje de negocios       | Reservar citas en horarios que no interfieran con su agenda laboral y recibir confirmaciones rápidas. | - Implementar un sistema de reservas con opciones de horarios flexibles y notificaciones en tiempo real. | - Como ejecutivo, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada. |
+|                                     |                                                                                             | - Integrar recordatorios automáticos antes de la cita para reducir el riesgo de cancelación.  | - Como ejecutivo, quiero ver la disponibilidad de médicos y reservar en horarios que no interfieran con mi agenda laboral. |
+
+## 3.4. Product Backlog.
+
+| # Orden | User Story Id | Título                            | Descripción                                                                                                           | Story Points (1 / 2 / 3 / 5 / 8) |
+|---------|---------------|----------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| 1       | US-01        | Búsqueda por ubicación           | Como turista, quiero buscar clínicas cercanas a mi ubicación actual para encontrar atención médica rápidamente.       | 3                               |
+| 2       | US-05        | Reserva de citas médicas         | Como turista, quiero reservar una cita médica desde la plataforma para asegurarme de que me atenderán a tiempo.       | 5                               |
+| 3       | US-06        | Confirmación de reserva          | Como usuario, quiero recibir una confirmación de mi reserva para asegurarme de que mi cita ha sido registrada.        | 2                               |
+| 4       | US-03        | Comparación de clínicas          | Como turista, quiero comparar varias clínicas para elegir la mejor opción basada en calificaciones y precios.         | 5                               |
+| 5       | US-04        | Visualización de detalles        | Como usuario, quiero ver los detalles completos de una clínica para evaluar su calidad antes de reservar una cita.    | 3                               |
+| 6       | US-02        | Filtrado por especialidad        | Como usuario, quiero filtrar las clínicas por especialidad para encontrar el tipo de atención médica que necesito.    | 3                               |
+| 7       | US-07        | Visualización de ubicación       | Como turista, quiero ver la ubicación de la clínica en un mapa para planificar cómo llegar allí fácilmente.           | 2                               |
+| 8       | US-08        | Navegación hasta la clínica      | Como usuario, quiero recibir instrucciones de navegación desde mi ubicación actual hasta la clínica.                 | 5                               |
+| 9       | US-09        | Creación de perfil de usuario    | Como usuario, quiero crear un perfil personal para almacenar mi información médica y preferencias de clínicas.        | 3                               |
+| 10      | US-010        | Actualización de perfil de usuario | Como usuario, quiero actualizar mi perfil para mantener mi información médica y preferencias siempre actualizadas.    | 2                               |
+
 
 # Capítulo IV: Product Design 
 ## 4.1. Style Guidelines. V1.0
