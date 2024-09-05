@@ -217,13 +217,7 @@ La **User Task Matrix** nos permite visualizar las tareas clave que nuestros usu
 ### 2.3.3. User Journey Mapping
 
 El **User Journey Mapping** nos permite mapear el recorrido de los usuarios a lo largo de su interacción con la plataforma, identificando los puntos de contacto clave y las posibles fricciones.
-
-1. **Inicio:** El usuario abre la plataforma desde su dispositivo.
-2. **Búsqueda:** Introduce su ubicación y especialidad médica requerida.
-3. **Comparación:** Revisa las opciones disponibles, compara precios y reseñas.
-4. **Reserva:** Elige un proveedor y reserva la cita.
-5. **Confirmación:** Recibe confirmación instantánea y detalles de la cita.
-6. **Post-cita:** Puede dejar una reseña y revisar su historial.
+![imagen_2024-09-05_003251731](https://hackmd.io/_uploads/SknKGaL3C.png)
 
 ### 2.3.4. Empathy Mapping
 
