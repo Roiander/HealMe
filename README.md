@@ -409,6 +409,336 @@ Es un servicio de salud privado brindado EPS que complementa la cobertura de EsS
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO4v8qHkVtBc3yoCZbeSemPSXk_sIPa3Jvg&s" height="180">
 
+###    2.1.1. Análisis competitivo. 
+
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="7">Competitive Analysis Landscape</th>
+        </tr>
+        <tr>
+            <td colspan="3"><b>¿Por qué llevar a cabo este análisis?</b></td>
+            <td colspan="4">Este análisis nos permitirá reconocer a las compañias competidoras y sus respectivos servicios similares a HealMe y resaltar las funcionalidades y carencias que estas mismas posean para comparar con nuestra propuesta. </td>
+        </tr>
+        <tr class="nombres-competidores">
+        <td style="font-weight: bold; text-align:center;" colspan="2">Punto de análisis</td>
+        <td style="font-weight: bold;">HealMe</td>
+        <td style="font-weight: bold;">Thaniy</td>
+        <td style="font-weight: bold;">HelpMed</td>
+        <td style="font-weight: bold;">Sanna</td>
+        <td style="font-weight: bold;">Sanitas</td>
+        </tr>
+        <tr class="logos-competidores">
+        <td style="font-weight: bold; text-align:center;" colspan="2">Logo</td>
+        <td>Logo de HealMe</td>
+        <td><img src="https://thaniy.org/upload/img/seccion/1714406239989249a6f24.png" height = "60"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwKqcYDbQbCVXehO4oGPotDm6bYqU3lMKOXb9vERaaVNMcheXZ8KCOebO0jFg3_k8Wp4&usqp=CAU" height="60"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9051cV4PJyjoniHO2Q6wEEJLZaE3c7k_Bg&s" height="60"></td>
+        <td><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO4v8qHkVtBc3yoCZbeSemPSXk_sIPa3Jvg&s" height="60"></td>
+        </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="2" style="font-weight: bold;">Perfil</td>
+        <td style="font-weight: bold;">Overview</td>
+        <td>HealMe es una plataforma digital diseñada para turistas y viajeros que necesitan acceso rápido a servicios médicos en destinos desconocidos. La aplicación permite a los usuarios buscar, comparar y reservar citas médicas en una amplia variedad de especialidades y centros de salud locales. Su misión es facilitar la atención médica al ofrecer transparencia en precios y ubicación. HealMe se posiciona como la solución global para la gestión de citas médicas durante los viajes, integrando funcionalidades como reseñas de usuarios, precios de consultas y recomendaciones para destinos con condiciones especiales.</td>
+        <td>Thaniy es una asociación sin fines de lucro creada por profesionales de la salud peruanos para mejorar el acceso a servicios médicos en Perú. Utiliza un sistema informático para conectar a los peruanos con atención médica de manera gratuita, sin costos adicionales. Thaniy se enfoca en ofrecer una plataforma accesible y eficiente para facilitar el acceso a la salud en todo el país</td>
+        <td>HelpMed es una empresa con años de experiencia en el mercado y con enfoque a responder rápidamente a emergencias médicas prehospitalarias. Su equipo está compuesto por médicos generales y especialistas, licenciados y paramédicos.</td>
+        <td>Sanna es una de las redes privadas de salud más grandes de Perú, con una amplia capacidad de atención a nivel nacional. Su infraestructura abarca clínicas, centros clínicos y una variedad de servicios de asistencia médica, como ambulancias, nutricionistas, entre otros. Entre algunos de los servicios que ofrecen se encuentran la opción de solicitar un medico a domicilio y realizar una teleconsulta médica.</td>
+        <td>Es un servicio de salud privado brindado EPS que complementa la cobertura de EsSalud. Entre uno de los servicios que ofrece se encuentra la teleconsulta y una cobertura de salud internacional.</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Ventaja competitiva ¿Que valor ofrece a los clientes?</td>
+        <td>HealMe conecta a turistas con centros de salud cercanos, ofreciendo una plataforma fácil de usar para visualizar ubicación, costos y reseñas. Además, proporciona consejos personalizados basados en condiciones climáticas y tiene un enfoque transaccional eficiente con comisiones, beneficiando tanto a usuarios como a centros de salud.</td>
+        <td>Thaniy ofrece atención médica a domicilio sin costos adicionales, gracias a su red de médicos y cirujanos voluntarios. Su enfoque sin fines de lucro permite brindar un servicio accesible para aquellos que no pueden cubrir gastos médicos, aunque no está asociado con centros de salud específicos.</td>
+        <td>HelpMed destaca por su rápida respuesta en emergencias médicas prehospitalarias, con una flota de vehículos y equipos especializados para atención urgente, incluyendo servicios médicos y pediátricos a domicilio. Sin embargo, su presencia aún es limitada en algunas áreas del país.</td>
+        <td>Sanna cuenta con una extensa red de centros de salud y ofrece servicios como teleconsultas y atención a domicilio. No obstante, puede ser menos ágil en la programación de consultas. Su capacidad de ofrecer atención médica variada es un punto fuerte, aunque la experiencia puede ser lenta.</td>
+        <td>Sanitas ofrece una cobertura extensa en clínicas y hospitales, además de incluir servicios de teleconsulta y seguro para medicamentos según el plan. Su asociación con varias clínicas permite una cobertura más amplia y accesible. Sin embargo, su alto costo y posibles dificultades para hacer valer el seguro es uno de sus puntos debiles.</td>
+    </tr>
+    <tr>
+        <td rowspan="2" style="font-weight: bold;">Plan de Marketing</td>
+        <td style="font-weight: bold;">Mercado Objetivo</td>
+        <td><ul>
+            <li>Turistas y viajeros peruanos que requieran atención médica en areas desconocidas</li>
+            <li>Extranjeros en Perú que no estan familiarizados con el sistema de salud local</li>
+            </ul></td>
+        <td><ul>
+            <li>Pacientes que requieran atención a domicilio</li>
+            <li>Profesionales ocupados</li>
+            <li>Pacientes que necesiten una consulta rapida en linea</li>
+            </ul></td>
+        <td><ul>
+            <li>Personas en situaciones de emergencia médica</li>
+            <li>Usuarios que Necesitan Servicios Médicos a Domicilio</li>
+            </ul></td>
+        <td><ul>
+            <li>Pacientes que Buscan Atención Médica Variada</li>
+            <li>Usuarios de Teleconsultas</li>
+            </ul></td>
+        <td><ul>
+            <li>Usuarios de EPS</li>
+            <li>Personas que Necesitan Seguro para Medicamentos o cobertura internacional</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Estrategias de Marketing</td>
+        <td><ul>
+            <li>Tiktok Ads</li>
+            <li>Facebook Ads</li>
+            <li>Marketing de contenidos</li>
+            <li>Email Marketing</li>
+            <li>SEM (Search Engine Marketing)</li>
+            <li>Colaboraciones con Influencers y Bloggers de Viajes</li>
+            <li>Publicidad en Plataformas de Turismo y Viajes</li>
+            </ul></td>
+        <td><ul>
+            <li>Marketing de redes sociales</li>
+            <li>Marketing de contenidos</li>
+            <li>Email Marketing</li>
+            </ul></td>
+        <td><ul>
+            <li>Email Marketing</li>
+            <li>Marketing de contenidos</li>
+            <li>Social Ads</li>
+            <li>Publicidad en medios locales</li>
+            </ul></td>
+        <td><ul>
+            <li>Social Ads</li>
+            <li>SEO</li>
+            <li>Email Marketing</li>
+            <li>Marketing de contenidos</li>
+            </ul></td>
+        <td><ul>
+            <li>Social Ads</li>
+            <li>SEO</li>
+            <li>Email Marketing</li>
+            <li>Marketing de contenidos</li>
+            <li>Colaboración con influencers</li>
+            <li>Publicidad en medios de comunicacion</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td rowspan="3" style="font-weight: bold;">Perfil de producto</td>
+        <td style="font-weight: bold;">Productos & Servicios</td>
+        <td><ul>
+            <li>Consulta Médica en Centros de Salud Cercanos
+</li>
+            <li>Exámenes Médicos en Centros de Salud Cercanos
+</li>
+            <li>Reservas de Citas Médicas en Línea
+</li>
+<li>Información sobre Ubicación y Costos de Servicios Médicos
+</li>   
+            <li>Reseñas y Valoraciones de Centros de Salud
+</li>
+            <li>Consejos Médicos Personalizados Basados en Condiciones Climáticas
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Atención médica a domicilio</li>
+            <li>Consulta Médica General y Especializada a Domicilio</li>
+            <li>Servicios de Emergencia Médica a Domicilio
+            <li>Orientación y Apoyo Médico General</li>
+            </ul></td>
+        <td><ul>
+            <li>Atención Médica de Emergencia Prehospitalaria
+</li>
+            <li>Servicio de Ambulancias para Emergencias y Eventos
+</li>
+            <li>Consulta Médica a Domicilio
+</li>
+            <li>Consulta Pediátrica a Domicilio
+</li>
+            <li>Servicios de Primeros Auxilios
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Consultas Médicas en Clínicas y Centros Clínicos
+</li>
+            <li>Servicios de Atención a Domicilio
+</li>
+            <li>Teleconsultas Médicas
+</li>
+            <li>Atención de Urgencias y Emergencias
+</li>
+            <li>Servicios de Ambulancias
+</li>
+            <li>Consultas con Especialistas y Nutricionistas
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Cobertura Médica en Clínicas Privadas y Asociadas
+</li>
+            <li>Teleconsultas Médicas
+</li>
+            <li>Seguros para Medicamentos
+</li>
+            <li>Servicios de Atención Médica en Clínicas
+</li>
+            <li>Cobertura Internacional de Salud
+</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Precios & Costos</td>
+        <td>HealMe funcionará con un modelo transaccional, cobrando al centro de salud un 5% del costo total del servicio por cada cliente que se conecte a través de la plataforma.</td>
+        <td>
+Thaniy ofrece atención médica en línea a partir de S/ 20, con precios que incrementan según la complejidad del servicio. Además, también disponen de atención médica a domicilio, con tarifas que comienzan en S/ 50. </td>
+        <td>HelpMed ofrecen medicos a domicilio desde los S/140, ademas de ofrecer ambulancias a domicilio desde los S/700.</td>
+        <td>Sanna ofrece consultas médicas a partir de S/79, además de una variedad de planes de salud que van desde S/95 hasta S/329 al mes.</td>
+        <td>Sanitas ofrece seguros médicos privados con precios que van desde S/90 hasta S/410 mensuales.
+</td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Canales de distribución (Web y/o Móvil)</td>
+        <td>
+HealMe contará con una aplicación web en donde el usuario podrá disfrutar de todas sus funcionalidades.</td>
+        <td>
+Thaniy cuenta con un formulario de contacto en su sitio web para redirigir a sus clientes a su canal de WhatsApp.</td>
+        <td>
+HelpMed cuenta con un formulario de contacto , numeros de contacto y direcciones de referencia, además de un canal de WhatsApp para atender a todas sus consultas.</td>
+        <td>
+Sanna de igual manera tiene un formulario de contacto y canales de contacto en su sitio web.</td>
+        <td>
+Sanitas cuenta con un sitio web que ofrece múltiples canales de contacto, los cuales redirigen a los clientes potenciales hacia medios de comunicación tradicionales para continuar con el proceso de adquisición.</td>
+    </tr>
+    <tr>
+        <td rowspan="4" style="font-weight: bold;">Análisis SWOT</td>
+        <td style="font-weight: bold;">Fortalezas</td>
+        <td><ul>
+            <li>Plataforma que combina salud y turismo, un nicho de mercado poco explotado.
+</li>
+            <li>Los usuarios pueden visualizar la ubicación, costos, reseñas y reservar citas con anticipación, todo en una misma plataforma</li>
+            <li>Amplia accesibilidad con la capacidad de reservar citas y realizar pagos en línea.
+</li>
+            <li>Provisión de información sobre condiciones climáticas y consejos médicos para turistas.
+</li>
+            <li>Genera ingresos recurrentes a través de comisiones cobradas a los centros de salud, manteniendo la plataforma accesible para los usuarios.
+</li>
+            <li>HealMe está diseñada para atender las necesidades específicas de turistas y ciudadanos en Perú, con un conocimiento profundo del mercado local.</li>
+            </ul></td>
+        <td>
+            <ul>
+                <li>Cuenta con una red de médicos y especialistas</li>
+                <li>Ofrece atención médica a precios muy accesibles</li>
+                <li>Especialización en servicios médicos a domicilio</li>
+            </ul>
+        </td>
+        <td><ul>
+            <li>Alta capacidad de respuesta en situaciones de emergencia, con una flota de vehículos equipada para primeros auxilios</li>
+            <li>Ofrece una gama de servicios que incluye médico a domicilio, pediatra a domicilio, y cobertura para eventos.</li>
+            <li>Varios años de experiencia en el mercado</li>
+            <li>Equipos médicos y paramédicos entrenados para manejar emergencias prehospitalarias.</li>
+            </ul></td>
+        <td><ul>
+            <li> Cuenta con una extensa red de clínicas y centros médicos en todo el país</li>
+            <li> Ofrece desde atención en clínicas hasta teleconsultas y servicios de nutricionistas.</li>
+            <li>Puede manejar grandes volúmenes de pacientes debido a su infraestructura y personal médico especializado.</li>
+            </ul></td>
+        <td><ul>
+            <li>Ofrece seguros con cobertura médica internacional, lo que es atractivo para clientes que viajan con frecuencia.</li>
+            <li>Amplia red de clínicas privadas asociadas, lo que permite una mayor cobertura de atención.</li>
+            <li>Diversos planes de seguros que pueden adaptarse a las necesidades específicas de los usuarios</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Debilidades</td>
+        <td><ul>
+            <li>Dependencia de la conectividad.
+</li>
+            <li>Necesidad de establecer relaciones sólidas con centros de salud para garantizar la calidad del servicio.
+</li>
+            <li>Costos de Adquisición de Usuarios</li>
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Limitada Cobertura Geográfica</li>
+            <li>No está asociado a centros de salud, lo que limita la variedad de servicios que puede ofrecer.</li>
+            <li>Puede tener limitaciones en cuanto a la cantidad de pacientes que pueden atender simultáneamente.</li>
+            </ul></td>
+        <td><ul>
+            <li>Posicionamiento Geográfico Limitado</li>
+            <li>Falta de Diversificación en Servicios</li>
+            <li>Dependencia de Vehículos y Equipos</li>
+            <li>Precios altos para el mercado</li>
+            </ul></td>
+        <td><ul>
+            <li>Lentitud en el Proceso de Consulta</li>
+            <li>Servicios en Línea Limitados</li>
+            <li>Altos Costos Operativos</li>
+            <li>Dependencia de la Infraestructura Física</li>
+            </ul></td>
+        <td><ul>
+            <li>Altos Costos para el Usuario</li>
+            <li>Trabas en la Utilización del Seguro</li>
+            <li>Dependencia de Clínicas Asociadas</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Oportunidades</td>
+        <td><ul>
+            <li>Expansión a otros países de América Latina con alta afluencia de turismo.
+                <li>Crecimiento en la demanda de servicios médicos a domicilio y telemedicina.
+</li>
+            <li>Posible colaboración con agencias de viajes y aerolíneas para atraer más usuarios.
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Expansión Regional: Ampliar su cobertura a más áreas del país y colaborar con otras organizaciones para aumentar su impacto.</li>
+            <li>Formar alianzas con entidades gubernamentales y empresas para obtener más fondos y recursos.</li>
+            <li> Integrar herramientas tecnológicas para optimizar la coordinación y la gestión de pacientes.</li>
+            </ul></td>
+        <td><ul>
+            <li>Aumentar su presencia en todo el país para ofrecer servicios de emergencia en más localidades.</li>
+            <li> Establecer acuerdos con organizadores de eventos y empresas para ofrecer servicios de emergencia en grandes reuniones y actividades.</li>
+            <li>Ampliar su oferta para incluir servicios médicos regulares y programas de salud preventiva.</li>
+            </ul></td>
+        <td><ul>
+            <li>Mejorar y expandir sus servicios en línea, como la telemedicina y la gestión de citas, para atraer a un público más amplio.</li>
+            <li>Ampliar su red de clínicas y centros médicos para cubrir más regiones y ofrecer servicios en áreas no atendidas.</li>
+            <li>Establecer acuerdos con compañías de seguros para ofrecer paquetes combinados y atraer a más clientes.</li>
+            </ul></td>
+        <td><ul>
+            <li>Ampliar su cobertura a nivel internacional para atraer a clientes que viajan o residen fuera del país.</li>
+            <li>Crear nuevos planes de seguros con opciones más flexibles y accesibles para diferentes segmentos de mercado.</li>
+            <li>Colaborar con empresas tecnológicas para integrar soluciones avanzadas en sus servicios y mejorar la experiencia del usuario.</li>
+            </ul></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold;">Amenazas</td>
+        <td><ul>
+            <li>Competencia directa de otras plataformas de salud con modelos similares.
+</li>
+            <li>Factores económicos o políticos que afecten el turismo y, por ende, la demanda de servicios médicos.</li>
+            <li>Posible resistencia de algunos centros de salud a adoptar nuevas tecnologías.
+</li>
+            </ul></td>
+        <td><ul>
+            <li>Competencia con Servicios de Salud Establecidos</li>
+            <li>Poca Presencia en el Mercado</li>
+            <li>Ausencia de Infraestructura Médica</li>
+            <li>Falta de Médicos Especializados</li>
+            </ul></td>
+        <td><ul>
+            <li>Altos Costos Operativos</li>
+            <li>Desafíos en la Expansión Geográfica</li>
+            </ul></td>
+        <td><ul>
+            <li>Desafíos en la Atención Eficiente</li>
+            <li>Costos Operativos Altos</li>
+            <li>Competencia con Servicios Digitales</li>
+            </ul></td>
+        <td><ul>
+            <li>Altos Costos para los Usuarios</li>
+            <li>Trabas en el Uso de Seguros</li>
+            <li>Competencia con Servicios Públicos de Salud:</li>
+            <li>Cambios en Políticas de Seguros</li>
+            </ul></td>
+    </tr>
+    </tbody>
+</table>
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
