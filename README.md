@@ -56,6 +56,7 @@
 |           | Elaboración de entrevistas, diagrama de clases y base de datos, colaboración general |
 |Cuevas Vera, José Angel | Empathy maps, As-Is y To-Be Scenario Mapping, Ubiquitous Language |
 |  Rodrigo Alcántara,          | Startup Profile, Solution Profile, Lean UX, Segmentos Objetivo, Landing Page      |
+| Diego Alonso          | User Stories, Product Backlog e Impact Mapping |
 |        | Diseño y prototipado de la aplicación web, entrevistas                            |
 |     | Diseño de la landing page y desarrollo de la interfaz                             |
 
