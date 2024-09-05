@@ -1019,7 +1019,7 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Cuevas Vera, José Angel    | Josecuevasvera | Colaborador|
 | Cisneros Salas, Luis Angel    | LuisCS341 | Colaborador|
 | Alcántara Cruz, Rodrigo Alonso    | Roiander | Admin |
-| Roque Tello, Jack Eddie    |  | Colaborador |
+| Roque Tello, Jack Eddie    | UPC-Skylar | Colaborador |
 
 
 
