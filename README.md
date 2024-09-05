@@ -64,7 +64,9 @@
 
 
 ## Student Outcome ABET – EAC - Student Outcome 5  
-**Criterio**: Capacidad de comunicarse efectivamente con un rango de audiencias. A continuación, se describen las acciones realizadas y las conclusiones del equipo que demuestran el logro del ABET – EAC - Student Outcome 3.
+**Criterio**: La capacidad de funcionar efectivamente en un
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | -------------------- | ------------------- | ------------ |
