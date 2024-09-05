@@ -74,7 +74,7 @@
 | | **Alonso Garay, Diego Jesus**: |  |
 | | **Roque Tello, Jack Eddie**:  |  |
 | | **Cisneros Salas, Luis Angel**:  |  |
-| | **Alcántara Cruz, Rodrigo Alonso**:  |
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Alcántara Cruz, Rodrigo Alonso**: TB1: Para el tb1 complete los ultimos puntos del capitulo 1, despues elabore el landing page basandome en los diseños establecidos por el equipo, acto seguido comence a elaborar los 8 primeros puntos del capitulo V , he creado el repositorio , invite a los compañeros del equipo, elegi la ide que ibamos a utilizar, estableci los lenguajes que se iban a implementar tanto en el landing page como en la app web, y estuve al tanto de actualiozaciones que pueden surgir para implementarlas en el landing page  | LLegue a la conclusion que es fundamental la comunicacion y organizacion con el equipo debido a que podemos crear un ambiente optimo para realizar este proyecto haciendo que podamos completar nuestras partes y subirlas en este repositorio para ver posibles correcciones que podemos realizar para asi presentar un mejor trabajo.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | -------------------- | ------------------- | ------------ |
@@ -82,13 +82,14 @@
 | | **Alonso Garay, Diego Jesus**: | |
 | | **Roque Tello, Jack Eddie**: . |  |
 | | **Cisneros Salas, Luis Angel**:  |
-| | **Alcántara Cruz, Rodrigo Alonso**: 
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **Alcántara Cruz, Rodrigo Alonso**: TB1: Para el tb1 complete los ultimos puntos del capitulo 1, despues elabore el landing page basandome en los diseños establecidos por el equipo, acto seguido comence a elaborar los 8 primeros puntos del capitulo V , he creado el repositorio , invite a los compañeros del equipo, elegi la ide que ibamos a utilizar, estableci los lenguajes que se iban a implementar tanto en el landing page como en la app web, y estuve al tanto de actualiozaciones que pueden surgir para implementarlas en el landing page  | LLegue a la conclusion que es fundamental la comunicacion y organizacion con el equipo debido a que podemos crear un ambiente optimo para realizar este proyecto haciendo que podamos completar nuestras partes y subirlas en este repositorio para ver posibles correcciones que podemos realizar para asi presentar un mejor trabajo.
 
 
 
 <div style="text-align: center; font-size: 32px;">
     <strong>HealMe</strong>
 </div>
+
 ### Contenido:
 
 #### Capítulo I: Introducción
