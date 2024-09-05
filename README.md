@@ -386,6 +386,13 @@ Hypothesis 2:Si proporcionamos precios transparentes para los servicios médicos
 
 Hypothesis 3:Si ofrecemos la opción de reservar citas basadas en la ubicación con precios transparentes, los viajeros y turistas serán más propensos a utilizar nuestra plataforma cuando busquen servicios médicos en ciudades desconocidas.
 
+#### 1.2.2.4. Lean UX Canvas. 
+
+Business problem
+¿Qué problema de negocio hemos identificado que necesita ayuda?
+
+La dificultad para agendar citas médicas de manera rápida y eficiente, la complejidad en el acceso a múltiples proveedores de salud y la falta de transparencia en los precios de los servicios médicos, estas experiencias suelen ser muy insatisfactorias para los pacientes.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
