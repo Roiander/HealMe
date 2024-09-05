@@ -413,6 +413,14 @@ Mejora en la satisfacción del cliente reflejada en calificaciones positivas y r
 
 Incremento en el uso de la plataforma por parte de viajeros y turistas para reservar citas médicas en ubicaciones desconocidas.
 
+Users and costumers:
+
+Pacientes locales que buscan facilidad y rapidez al agendar citas médicas.
+
+Viajeros y turistas que necesitan acceso rápido a servicios médicos en ciudades desconocidas.
+
+Centros médicos y clínicas que desean aumentar su visibilidad y accesibilidad para atraer más pacientes.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
