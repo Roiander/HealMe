@@ -1090,6 +1090,7 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Alcántara Cruz, Rodrigo Alonso    | Roiander | Admin |
 | Roque Tello, Jack Eddie    | UPC-Skylar | Colaborador |
 
+![image](https://github.com/user-attachments/assets/601ca4c4-3a66-42e7-a041-378c44daf594)
 
 
 
