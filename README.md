@@ -1360,6 +1360,8 @@ User Sotory:Como usuario que necesita una consulta médica, quiero poder reserva
 ### 4.6.2. Software Architecture Container Diagrams. 
 ![image alt](./assets/img/diagram2.jpeg)
 ### 4.6.3. Software Architecture Components Diagrams. 
+![image alt](./assets/img/diagram3.jpeg)
+
 ### 4.7. Software Object-Oriented Design. 
 ### 4.7.1. Class Diagrams. 
 
