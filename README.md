@@ -834,6 +834,13 @@ En este Sprint, hemos logrado implementar las funcionalidades principales de la 
 
 ### 5.2.X.4. Testing Suite Evidence for Sprint Review. 
 
+Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correcto funcionamiento de los Web Services relacionados con los User Stories especificados. Se desarrollaron Unit Tests, Integration Tests, y Acceptance Tests utilizando el enfoque BDD. Las pruebas abarcaron funcionalidades como búsqueda de clínicas, reserva de citas médicas y manejo del perfil de usuario.
+
+| **Repository**      | **Branch**           | **Commit ID** | **Commit Message**                              | **Commit Message Body**                                                                  | **Committed on (Date)** |
+|---------------------|----------------------|---------------|-------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------|
+| healme-testing      | feature/tests         | a1b2c3d       | Add Unit Tests for LocationService               | Added Unit Tests to validate geolocation-based clinic searches.                           | 2024-09-03              |
+| healme-testing      | feature/tests         | e4f5g6h       | Add Integration Tests for Clinic search          | Added Integration Tests for clinic search with specialties filter.                        | 2024-09-04              |
+| healme-testing      | feature/tests         | i7j8k9l       | Add BDD Tests for Appointment Booking            | Added BDD tests for booking appointments and receiving confirmation.                      | 2024-09-05              |
 
 ### 5.2.X.5. Execution Evidence for Sprint Review. 
 
