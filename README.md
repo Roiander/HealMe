@@ -385,6 +385,30 @@ Crear una campaña de marketing dirigida a viajeros y turistas para evaluar el i
 
 Viajeros/Turistas: Personas que se encuentran en una ciudad o país diferente y necesitan acceso rápido a servicios médicos sin conocimiento previo del área. Las características clave para este segmento incluyen la búsqueda basada en la ubicación y la transparencia en los precios para ayudarles a tomar decisiones informadas rápidamente.
 
+##    2.1. Competidores
+
+En el contexto de un mercado peruano en constante cambio y evolución, la gestión eficiente de los procesos en HealMe es una necesidad primordial en el sector sanitario. HealMe enfrenta el desafío urgente de comprender y abordar a sus competidores para asegurar una posición sólida y garantizar la satisfacción de sus usuarios.
+
+**1. Thaniy**
+Thaniy es una asociación sin fines de lucro fundada por profesionales de la salud peruanos para mejorar el acceso a servicios médicos en Perú. A través de un sistema informático, Thaniy conecta a los peruanos con atención médica sin costos adicionales. 
+
+<img src="https://thaniy.org/upload/img/seccion/1714406239989249a6f24.png" height = "150">
+
+**2. HelpMed**
+HelpMed es una empresa con años de experiencia en el mercado y con enfoque a responder rápidamente a emergencias médicas prehospitalarias. Su equipo está compuesto por médicos generales y especialistas, licenciados y paramédicos.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTwKqcYDbQbCVXehO4oGPotDm6bYqU3lMKOXb9vERaaVNMcheXZ8KCOebO0jFg3_k8Wp4&usqp=CAU">
+
+**3. Sanna**
+Sanna es una de las redes privadas de salud más grandes de Perú, con una amplia capacidad de atención a nivel nacional. Su infraestructura abarca clínicas, centros clínicos y una variedad de servicios de asistencia médica, como ambulancias, nutricionistas, entre otros. Entre algunos de los servicios que ofrecen se encuentran la opción de solicitar un medico a domicilio y realizar una teleconsulta médica.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe9051cV4PJyjoniHO2Q6wEEJLZaE3c7k_Bg&s" height="190">
+
+**4. Sanitas**
+Es un servicio de salud privado brindado EPS que complementa la cobertura de EsSalud. Entre uno de los servicios que ofrece se encuentra la teleconsulta y una cobertura de salud internacional.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnO4v8qHkVtBc3yoCZbeSemPSXk_sIPa3Jvg&s" height="180">
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
