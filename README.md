@@ -1014,7 +1014,10 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Integrantes                           | Usuario          | Rol        |
 |---------------------------------------|------------------|------------|
 | Alonso Garay, Diego Jesus             | DiegoAlonso04    | Colaborador|
-|     |  | Colaborador|
+| Cuevas Vera, José Angel    | Josecuevasvera | Colaborador|
+| Cisneros Salas, Luis Angel    | LuisCS341 | Colaborador|
+| Alcántara Cruz, Rodrigo Alonso    | Roiander | Admin |
+| Roque Tello, Jack Eddie    | Roiander | Colaborador |
 
 
 
