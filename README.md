@@ -805,22 +805,50 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 ### Tabla del Sprint Backlog
 
-| **User Story ID** | **Título**                       | **Work-Item/Task ID** | **Título**                     | **Descripción**                                                                 | **Estimación (Horas)** | **Asignado a** | **Estado (To-Do / In-Process / To-Review / Done)** |
-|-------------------|----------------------------------|-----------------------|---------------------------------|---------------------------------------------------------------------------------|------------------------|----------------|--------------------------------------------------|
-| US-001            | Búsqueda por ubicación           | TSK-001                | Configuración de geolocalización| Implementar la función de geolocalización para mostrar clínicas cercanas.       | 8                      | Jack           | To-Do                                            |
-| US-005            | Reserva de citas médicas         | TSK-002                | Crear sistema de reserva        | Implementar la interfaz y backend para que los usuarios puedan reservar citas.  | 12                     | Jack           | In-Process                                       |
-| US-005            | Reserva de citas médicas         | TSK-003                | Confirmación de reserva         | Implementar la notificación de confirmación después de realizar una reserva.    | 6                      | Rodrigo          | To-Do                                            |
-| US-006            | Confirmación de reserva          | TSK-004                | Enviar correo de confirmación   | Implementar el envío de correo electrónico para la confirmación de citas.       | 4                      | Diego           | To-Do                                            |
-| US-010            | Actualización de perfil de usuario| TSK-005                | Actualización de datos de perfil| Desarrollar la funcionalidad para que los usuarios actualicen su información.   | 10                     | José           | In-Process                                       |
-| US-003            | Comparación de clínicas          | TSK-006                | Crear función de comparación    | Implementar la función para comparar clínicas en términos de precios y calificaciones. | 14                 | Luis           | To-Do                                            |
-| US-004            | Visualización de detalles de clínicas | TSK-007             | Mostrar detalles de clínicas    | Desarrollar la pantalla de detalles de las clínicas seleccionadas.              | 10                     | Rodrigo           | To-Do                                            |
+| **User Story ID**  | **Título**                        | **Work-Item/Task ID**  | **Título**                        | **Descripción**                                                                 | **Estimación (Horas)** | **Asignado a** | **Estado (To-Do / In-Process / To-Review / Done)** |
+|--------------------|-----------------------------------|------------------------|-----------------------------------|---------------------------------------------------------------------------------|------------------------|----------------|----------------------------------------------------|
+| US-005             | Reserva de citas médicas          | TSK-002                | Crear sistema de reserva          | Implementar la interfaz y backend para que los usuarios puedan reservar citas.  | 12                     | Jack           | In-Process                                         |
+| US-006             | Confirmación de reserva           | TSK-004                | Enviar correo de confirmación     | Implementar el envío de correo electrónico para la confirmación de citas.       | 4                      | Diego          | In-Process                                         |
+| US-010             | Actualización de perfil de usuario| TSK-005                | Actualización de datos de perfil  | Desarrollar la funcionalidad para que los usuarios actualicen su información.   | 10                     | José           | In-Process                                         |
+| US-003             | Comparación de clínicas           | TSK-006                | Crear función de comparación      | Implementar la función para comparar clínicas en términos de precios y calificaciones. | 14                 | Luis           | To-Do                                              |
+| US-004             | Visualización de detalles de clínicas | TSK-007             | Mostrar detalles de clínicas      | Desarrollar la pantalla de detalles de las clínicas seleccionadas.              | 10                     | Rodrigo        | To-Do                                              |
+
 
 
 5.2.X.3. Development Evidence for Sprint Review. 
+
+### Development Evidence for Sprint Review - Sprint 1
+
+En este Sprint, hemos logrado implementar las funcionalidades principales de la plataforma HealMe, como la reserva de citas médicas, la confirmación de reservas, y la visualización del historial de citas. Estas implementaciones corresponden a las secciones críticas de la plataforma, permitiendo a los usuarios acceder a servicios médicos en ubicaciones desconocidas. A continuación, se presentan los avances en la implementación a través de los commits realizados en los repositorios involucrados en el desarrollo de estas funcionalidades.
+
+### Commits por Repositorio
+
+| **Repository**   | **Branch**   | **Commit ID** | **Commit Message**             | **Commit Message Body**                                                       | **Committed on (Date)** |
+|------------------|--------------|---------------|--------------------------------|--------------------------------------------------------------------------------|-------------------------|
+|    |     |       |                |             | 2024-09-01              |
+|    |     |       |                |             | 2024-09-02              |
+|    |    |        |                |          | 2024-09-03              |
+|    |    |       |                 |           | 2024-09-04              |
+|    |    |       |                 |           | 2024-09-01              |
+|    |     |       |                |            | 2024-09-03              |
+
 5.2.X.4. Testing Suite Evidence for Sprint Review. 
+
+
 5.2.X.5. Execution Evidence for Sprint Review. 
+
+1. **Inicio de sesión**: Se implementó la funcionalidad de inicio de sesión con autenticación de usuarios y manejo de sesiones.
+2. **Reserva de citas**: Los usuarios ahora pueden reservar citas a través de la plataforma. Se agregó un formulario de reserva y lógica para guardar las reservas en la base de datos.
+3. **Historial de citas**: Se desarrolló la página donde los usuarios pueden ver el historial de citas que han tenido anteriormente.
+4. **Confirmación de reserva**: Se añadió una página de confirmación que se muestra después de que una reserva es exitosa, además de enviar notificaciones por correo electrónico.
+5. **Comparación de clínicas**: Se agregó la función de comparar clínicas por calificaciones y reseñas de otros usuarios.
+
+   
 5.2.X.6. Services Documentation Evidence for Sprint Review. 
+
+
 5.2.X.7. Software Deployment Evidence for Sprint Review. 
 5.2.X.8. Team Collaboration Insights during Sprint.
+
 
 
