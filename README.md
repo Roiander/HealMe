@@ -287,3 +287,171 @@ El **As-is Scenario Mapping** describe el escenario actual de cómo los usuarios
   
 - **Seguridad y privacidad**: Normas y prácticas que garantizan la protección de los datos personales y médicos de los usuarios.
 
+# Capítulo IV: Product Design 
+## 4.1. Style Guidelines. V1.0
+
+### 4.1.1. General Style Guidelines
+
+Las **Guías Generales de Estilo** establecen las bases para mantener una apariencia y sensación coherente en toda la plataforma "HEALME". Estas directrices aseguran que todos los elementos visuales y de comunicación estén alineados con la identidad de la marca y proporcionen una experiencia de usuario óptima.
+
+### Elementos Clave:
+
+- **Identidad de Marca:**
+  - **Logo:** El logo de HEALME debe ser claro y reconocible, utilizando los colores principales de la marca.
+  - **Paleta de Colores:** Se utilizarán tonos verdes claros para títulos importantes, tonos oscuros para los fondos y tonos blancos para el texto, asegurando un contraste adecuado para una lectura fácil.
+  ![2-removebg-preview (1)](https://hackmd.io/_uploads/Sy-NxHZ2R.png)
+![HealMe Logo](https://hackmd.io/_uploads/ryErlrW20.png)
+![imagen_2024-08-31_201703420](https://hackmd.io/_uploads/SJ_9xS-hA.png)
+
+
+- **Tipografía:**
+  - **Fuente Principal:** Utilizar una fuente sans-serif moderna y legible, como **Roboto** o **Open Sans**.
+  - **Jerarquía Tipográfica:** Establecer tamaños y pesos de fuente distintos para títulos, subtítulos, cuerpo de texto y elementos destacados.
+
+- **Espaciado y Layout:**
+  - **Márgenes y Padding:** Mantener un espaciado consistente entre elementos para una apariencia limpia y ordenada.
+  - **Grid System:** Utilizar un sistema de cuadrícula para alinear y organizar el contenido de manera coherente.
+
+- **Iconografía y Gráficos:**
+  - **Estilo de Iconos:** Usar iconos simples y lineales que se integren con el diseño general.
+  - **Imágenes:** Utilizar imágenes de alta calidad que reflejen la diversidad de los usuarios y proveedores de servicios médicos.
+
+- **Tono y Voz:**
+  - **Comunicación:** Mantener un tono profesional, amigable y accesible.
+  - **Lenguaje Claro:** Evitar jerga técnica innecesaria y asegurar que la información sea comprensible para todos los usuarios.
+
+### 4.1.2. Web Style Guidelines
+
+Las **Guías de Estilo Web** se enfocan en los aspectos específicos del diseño para la plataforma digital, asegurando una experiencia de usuario consistente y atractiva.
+
+![landing](https://hackmd.io/_uploads/S1G4bHWn0.png)
+
+
+### Elementos Específicos:
+
+- **Colores:**
+  - **Títulos Importantes:** Verde claro (#A8D5BA) para resaltar títulos y llamadas a la acción.
+  - **Fondos:** Tonos oscuros (#2C3E50, #34495E) para crear un contraste elegante y profesional.
+  - **Texto:** Blanco puro (#FFFFFF) para garantizar legibilidad sobre fondos oscuros.
+
+- **Tipografía Web:**
+  - **Fuente Principal:** Roboto, Open Sans o similar para una lectura fluida en pantallas.
+  - **Tamaños:**
+    - **Título Principal (H1):** 32px
+    - **Subtítulos (H2, H3):** 24px, 20px
+    - **Cuerpo de Texto:** 16px
+    - **Pequeños Detalles:** 14px
+
+- **Botones y Elementos Interactivos:**
+  - **Botones Primarios:** Verde claro con texto blanco, borde redondeado.
+  - **Botones Secundarios:** Tonos oscuros con texto blanco.
+  - **Estados de Botón:** Hover, activo y deshabilitado deben estar claramente diferenciados.
+
+- **Imágenes y Multimedia:**
+  - **Formato:** Preferentemente JPEG o PNG para imágenes estáticas, y MP4 para videos.
+  - **Optimización:** Comprimir imágenes para mejorar tiempos de carga sin sacrificar calidad.
+
+- **Responsividad:**
+  - **Diseño Adaptable:** Asegurar que la plataforma se visualice correctamente en dispositivos móviles, tablets y desktops.
+  - **Breakpoints:** Definir puntos de quiebre para ajustar el layout según el tamaño de la pantalla.
+
+- **Accesibilidad:**
+  - **Contraste de Colores:** Asegurar que el contraste entre el texto y el fondo cumpla con los estándares de accesibilidad.
+  - **Etiquetas Alt:** Incluir descripciones alternativas en todas las imágenes para usuarios con discapacidades visuales.
+  - **Navegación con Teclado:** Garantizar que todos los elementos interactivos sean accesibles mediante el teclado.
+
+## 4.2. Information Architecture
+
+La **Arquitectura de la Información** define cómo se organiza y estructura el contenido dentro de la plataforma "HEALME", facilitando la navegación y el acceso a la información por parte de los usuarios.
+
+### 4.2.1. Organization Systems
+
+**Sistemas de Organización** determinan la manera en que se agrupan y categorizan los contenidos en la plataforma.
+
+### Estructura Principal:
+
+- **Home/Landing Page:** Introducción a HEALME, características principales, testimonios y llamadas a la acción.
+- **Buscar Servicios Médicos:** Herramienta de búsqueda avanzada por ubicación, especialidad y precio.
+- **Perfil del Proveedor:** Página individual para cada centro médico con detalles, horarios, precios y reseñas.
+- **Reservas/Citas:** Sección para gestionar reservas de citas médicas.
+- **Historial Médico:** Registro de citas pasadas y detalles de tratamientos.
+- **Sobre Nosotros:** Información sobre la startup, misión, visión y equipo.
+- **Contacto y Soporte:** Formulario de contacto, preguntas frecuentes y soporte en línea.
+- **Blog/Recursos:** Artículos y recursos relacionados con la salud y viajes.
+
+### Modelos de Organización Utilizados:
+
+- **Jerárquico:** Estructura de árbol donde la información se organiza de lo general a lo específico.
+- **Secuencial:** Flujo lógico de pasos para completar tareas, como reservar una cita.
+- **Red:** Conexiones entre diferentes secciones para facilitar el acceso rápido a información relacionada.
+
+### 4.2.2. Labeling Systems
+
+**Sistemas de Etiquetado** se refieren a cómo se nombran y categorizan los elementos dentro de la plataforma para asegurar claridad y coherencia.
+
+### Directrices de Etiquetado:
+
+- **Consistencia:** Utilizar términos uniformes en todas las secciones (e.g., "Cita Médica" en lugar de "Reserva" o "Cita").
+- **Claridad:** Los nombres deben ser descriptivos y fáciles de entender para los usuarios.
+- **Concisión:** Evitar etiquetas largas; mantener los nombres breves pero informativos.
+- **Relevancia:** Asegurarse de que las etiquetas reflejen fielmente el contenido o la función correspondiente.
+
+### Ejemplos de Etiquetas:
+
+- **Inicio**
+- **Buscar Médicos**
+- **Mis Citas**
+- **Perfil del Médico**
+- **Comparar Precios**
+- **Reseñas**
+- **Contacto**
+- **Soporte**
+- **Blog**
+- **Acerca de**
+
+### 4.2.3. SEO Tags and Meta Tags
+
+**Etiquetas SEO y Meta** son fundamentales para mejorar la visibilidad de la plataforma en motores de búsqueda y para proporcionar información esencial a los navegadores y redes sociales.
+
+### Directrices para SEO y Meta Tags:
+
+- **Title Tags:**
+  - Descriptivos y únicos para cada página.
+  - Incluir palabras clave relevantes (e.g., "Reservar Cita Médica en el Extranjero | HEALME").
+
+- **Meta Descriptions:**
+  - Resumen conciso de la página (150-160 caracteres).
+  - Incluir palabras clave y un llamado a la acción.
+
+- **Header Tags (H1, H2, H3):**
+  - Usar H1 para el título principal de la página.
+  - Utilizar H2 y H3 para subtítulos y secciones.
+
+- **Alt Text para Imágenes:**
+  - Descripciones claras y precisas de las imágenes.
+  - Incluir palabras clave cuando sea relevante.
+
+- **URL Amigables:**
+  - URLs cortas y descriptivas (e.g., `healmé.com/buscar-medicos`).
+
+- **Keywords:**
+  - Investigación y selección de palabras clave relevantes para cada sección.
+  - Integrar de manera natural en el contenido.
+
+- **Open Graph Tags:**
+  - Optimizar la apariencia de las páginas cuando se comparten en redes sociales.
+  - Incluir título, descripción, imagen y URL.
+
+### Ejemplo de Meta Tags para la Página de Inicio:
+
+```html
+<head>
+  <title>HEALME | Reserva Citas Médicas en el Extranjero</title>
+  <meta name="description" content="HEALME te permite buscar, comparar y reservar citas médicas en cualquier parte del mundo de manera rápida y transparente.">
+  <meta property="og:title" content="HEALME | Reserva Citas Médicas en el Extranjero">
+  <meta property="og:description" content="Accede a servicios médicos de calidad en tus destinos de viaje con HEALME.">
+  <meta property="og:image" content="URL_de_la_imagen">
+  <meta property="og:url" content="https://healmé.com">
+</head>
+```
+### 4.2.4. Searching Systems
