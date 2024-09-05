@@ -863,8 +863,6 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 ### Introducción
 Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma.
 
-### Tabla de Endpoints
-
 | **Endpoint**       | **Acción Implementada**          | **Verbo HTTP** | **Sintaxis de Llamada**                         | **Parámetros**                    | **Ejemplo de Response**          | **Explicación del Response**                                               |
 |--------------------|---------------------------------|----------------|-------------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------------------|
 | /clinics/search    | Buscar clínicas cercanas         | GET            | `/clinics/search?location={location}`           | location (string)                | `{ "clinics": [ ... ] }`         | Lista de clínicas cercanas con detalles básicos.                           |
@@ -874,8 +872,9 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 | /appointments      | Reservar cita médica             | POST           | `/appointments`                                 | clinic_id (string), date (string), time (string) | `{ "appointment": { ... } }` | Confirmación de la reserva de cita médica.                                |
 | /appointments/{id} | Confirmación de la reserva       | GET            | `/appointments/{id}`                            | id (string)                      | `{ "appointment": { ... } }`     | Confirmación de detalles de la cita médica.                               |
 | /clinics/{id}/map  | Ver ubicación de la clínica      | GET            | `/clinics/{id}/map`                             | id (string)                      | `{ "map_url": "url" }`           | URL del mapa con la ubicación de la clínica.                               |
+| /navigation        | Navegar hasta la clínica          | GET            | `/navigation?clinic_id={clinic_id}&current_location={current_location}` | clinic_id (string), current_location (string) | `{ "directions": [ ... ] }`  | Instrucciones de navegación desde la ubicación actual hasta la clínica.    |
 | /profile           | Crear perfil de usuario           | POST           | `/profile`                                      | user_info (object)               | `{ "profile": { ... } }`         | Confirmación de la creación del perfil del usuario.                        |
-| /profile/{id}      | Actualizar perfil de usuario      | PUT            | `/profile/{id}`                                 | id (string), user_info (object)  | `{ "profile": { ... } }`         | Confirmación de la actualización del perfil del usuario.                   |
+| /profile/{id}      | Actualizar perfil de usuario      | PUT            | `/profile/{id}`                                 | id (string), user_info (object)  | `{ "profile": { ... } }`         | Confirmación de la actualización del perfil del usuario.                   |                 |
 
 ### Capturas de Pantalla
 
