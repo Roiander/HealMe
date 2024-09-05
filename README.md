@@ -791,6 +791,89 @@ Contenido Educativo: Crear y distribuir contenido educativo que informe a los us
 Testimonios y Casos de Éxito: Utilizar testimonios de usuarios satisfechos y casos de éxito para demostrar la efectividad y valor de HealMe.
 Campañas en Redes Sociales: Aprovechar las redes sociales para llegar a un público más amplio y promover las características únicas de la plataforma.
 
+### 2.2.1. Diseño de entrevistas. 
+
+Entrevista a personas referentes a nuestro segmentos objetivo, las preguntas varían dependiendo del segmento debido a las diferentes situaciones:
+
+**Segmento 1:** Viajeros / Turistas
+
+**Preguntas de Introducción:**
+1. ¿Cuál es su nombre y a que se dedica?
+2. ¿Qué destinos ha visitado recientemente y cuáles suele visitar con más frecuencia?
+3. ¿Cuál es el propósito principal de sus viajes (por ejemplo, turismo, negocios, visitar familiares, estudios, etc.)?
+4. ¿Suele viajar solo, en pareja, con familia o en grupo?
+5. ¿Con qué frecuencia viaja fuera de su ciudad o país?
+
+**Preguntas Principales:**
+
+**1 - ¿Ha tenido alguna vez la necesidad de buscar atención médica mientras estaba de viaje? Si es así, ¿cómo fue su experiencia?**
+Objetivo: Comprender las experiencias previas de los viajeros con la atención médica durante sus viajes, incluyendo desafíos y expectativas.
+
+**2 - Cuando necesita atención médica en una ciudad o región que no conoce, ¿qué aspectos son los más importantes para usted al elegir un centro de salud o médico (ubicación, costos, calidad, etc.)?**
+Objetivo: Identificar los criterios clave que los turistas y viajeros consideran al seleccionar servicios médicos en un área desconocida.
+
+**3 - ¿Le resultaría útil una aplicación que le ofrezca múltiples opciones de centros de salud y médicos, con la posibilidad de comparar precios y servicios antes de tomar una decisión?**
+Objetivo: Evaluar el interés en la funcionalidad principal de HealMe para comparar opciones de atención médica.
+
+**4 - ¿Qué tan importante es para usted contar con información en su idioma sobre los servicios médicos disponibles?**
+Objetivo: Determinar la importancia de la accesibilidad lingüística en la oferta de servicios médicos para turistas.
+
+**5 - ¿Ha tenido dificultades para encontrar información confiable sobre centros de salud en áreas donde ha viajado? En caso afirmativo, ¿cuáles fueron los principales obstáculos?**
+Objetivo: Identificar los desafíos comunes que enfrentan los turistas al buscar atención médica en áreas desconocidas.
+
+**6 - ¿Qué tan importante considera la posibilidad de acceder a reseñas y valoraciones de otros pacientes al momento de elegir un servicio médico en una ciudad o provincia que no conoce?**
+Objetivo: Evaluar la importancia de las reseñas y valoraciones en la toma de decisiones de los viajeros.
+
+**7 - ¿Le gustaría que HealMe le proporcionara información sobre la calidad sanitaria del lugar al que viaja, basada en la experiencia de otros usuarios que ya han visitado la región?**
+Objetivo: Evaluar el interés en recibir evaluaciones de calidad sanitaria de destinos turísticos, basadas en la retroalimentación de otros viajeros.
+
+**8 - ¿Qué tan útil le resultaría tener acceso a una sección en HealMe con información sobre los costos aproximados de medicamentos esenciales en la región que va a visitar?**
+Objetivo: Determinar la necesidad y el valor de contar con información anticipada sobre el costo de medicamentos comunes en destinos turísticos.
+
+**9 - Si viajara a destinos exóticos en la selva o a áreas con alta concentración de mosquitos, ¿consideraría útil que HealMe le recomendara cremas o sprays repelentes específicos, incluyendo información sobre su costo y disponibilidad?**
+Objetivo: Explorar el interés en recibir recomendaciones de productos para la salud y su costo, adaptadas a las condiciones particulares de destinos con riesgos específicos como la selva.
+
+**10 - Al planificar un viaje a destinos de gran altitud, ¿le parecería conveniente que HealMe le sugiriera productos para prevenir el mal de altura, junto con información sobre su costo y dónde adquirirlos?**
+Objetivo: Evaluar la utilidad de recomendaciones personalizadas de productos de salud para prevenir problemas comunes en destinos de gran altitud.
+
+**11 - ¿Qué sugerencias tendría para mejorar una aplicación diseñada para facilitar el acceso a servicios médicos en una región desconocida para turistas como usted?**
+Objetivo: Recopilar recomendaciones para optimizar la usabilidad y efectividad de HealMe 
+
+ **12 -  ¿Cuánto estaría dispuesto/a a pagar por una aplicación que le permita gestionar y agendar citas médicas o exámenes de manera rápida y sencilla durante su viaje?**
+Objetivo: Explorar la disposición a pagar por los servicios de HealMe y el valor percibido por los viajeros.
+
+**13 - ¿Qué recomendaciones o sugerencias tendría para el equipo de HealMe en términos de diseño, implementación o uso de la plataforma para maximizar su efectividad en la mejora de la experiencia del turista?**
+     - Objetivo: Recopilar ideas y sugerencias prácticas para optimizar la funcionalidad y usabilidad de la plataforma HealMe.
+
+**Segmento 2:** Dueños o encargados de centros de salud
+
+**Preguntas de Introducción:**
+1. ¿Cuál es su nombre y el nombre del centro de salud que dirige?
+2. ¿Cuántos años lleva en el sector de la salud?
+3. ¿En qué ciudad o región del Perú se encuentra su centro de salud?
+4. ¿Cuál es el tamaño de su centro de salud en términos de capacidad y número de empleados?
+5. ¿Qué tipo de servicios médicos son los más demandados en su centro de salud?
+
+**Preguntas Principales:**
+
+**1.¿Cuáles son los principales desafíos que enfrenta su centro de salud al atraer y retener pacientes, especialmente aquellos que son turistas o viajeros?**
+Objetivo: Identificar las dificultades actuales para captar pacientes externos, especialmente turistas, y explorar cómo HealMe podría ayudar a superar estos desafíos.
+**2. ¿Cómo considera que la visibilidad en una plataforma como HealMe, que conecta a turistas con centros de salud, podría beneficiar a su negocio?**
+Objetivo: Explorar las percepciones sobre el valor agregado que HealMe podría ofrecer a su centro de salud, en términos de atraer nuevos pacientes.
+
+**3.¿Qué tan importante considera la posibilidad de ofrecer precios competitivos y transparentes en HealMe para atraer a pacientes, especialmente aquellos que buscan opciones médicas mientras están de viaje?**
+Objetivo: Evaluar la relevancia de la transparencia en precios como un factor clave para atraer pacientes a través de la plataforma.
+
+**4.¿En qué aspectos cree que HealMe podría mejorar o qué funcionalidades adicionales serían importantes para que considere unirse a la plataforma?**
+Objetivo: Recopilar sugerencias para el desarrollo y mejora de la plataforma, basadas en las necesidades y expectativas de los centros de salud.
+
+**5.¿Estaría dispuesto a formar parte de HealMe si esto implica una mayor exposición a pacientes turistas que necesitan exámenes o citas médicas? ¿Qué tipo de acuerdos o incentivos le harían más propenso a unirse?**
+Objetivo: Evaluar la disposición a colaborar con HealMe y explorar posibles incentivos que podrían hacer más atractiva la propuesta.
+
+
+**6.¿Cree que la implementación de reseñas y valoraciones de pacientes en la plataforma HealMe sería beneficiosa o perjudicial para su centro de salud? ¿Por qué?**
+Objetivo: Explorar percepciones sobre la transparencia y retroalimentación de pacientes como herramienta de mejora continua y atracción de nuevos clientes.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
