@@ -928,5 +928,13 @@ Durante este Sprint, se han desplegado varios componentes clave de la plataforma
 
 ### 5.2.X.8. Team Collaboration Insights during Sprint.
 
+Para el desarrollo de la primera versión de la plataforma, el equipo realizó el trabajo de forma colaborativa y equitativa. En la siguiente tabla se mostrará la relación que posee cada integrante y las estadísticas de sus commits.
+
+| Integrantes                           | Usuario          | Rol        |
+|---------------------------------------|------------------|------------|
+| Alonso Garay, Diego Jesus             | DiegoAlonso04    | Colaborador|
+|     |  | Colaborador|
+
+
 
 
