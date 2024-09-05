@@ -63,7 +63,7 @@
 |     | Diseño de la landing page y desarrollo de la interfaz                             |
 
 
-## Student Outcome ABET – EAC - Student Outcome 3  
+## Student Outcome ABET – EAC - Student Outcome 5  
 **Criterio**: Capacidad de comunicarse efectivamente con un rango de audiencias. A continuación, se describen las acciones realizadas y las conclusiones del equipo que demuestran el logro del ABET – EAC - Student Outcome 3.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
