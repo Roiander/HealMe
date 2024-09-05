@@ -858,6 +858,37 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 
    
 ### 5.2.X.6. Services Documentation Evidence for Sprint Review. 
+## Servicios Documentación Evidencia para la Revisión del Sprint
+
+### Introducción
+Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints implementados, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma.
+
+### Tabla de Endpoints
+
+| **Endpoint**       | **Acción Implementada**          | **Verbo HTTP** | **Sintaxis de Llamada**                         | **Parámetros**                    | **Ejemplo de Response**          | **Explicación del Response**                                               |
+|--------------------|---------------------------------|----------------|-------------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------------------|
+| /clinics/search    | Buscar clínicas cercanas         | GET            | `/clinics/search?location={location}`           | location (string)                | `{ "clinics": [ ... ] }`         | Lista de clínicas cercanas con detalles básicos.                           |
+| /clinics/filter    | Filtrar clínicas por especialidad| GET            | `/clinics/filter?specialty={specialty}`         | specialty (string)               | `{ "clinics": [ ... ] }`         | Lista de clínicas que ofrecen la especialidad seleccionada.                |
+| /clinics/compare   | Comparar clínicas                | POST           | `/clinics/compare`                              | clinic_ids (array of strings)    | `{ "comparison": { ... } }`      | Comparación de clínicas seleccionadas basada en calificaciones y precios. |
+| /clinics/{id}      | Detalles de la clínica           | GET            | `/clinics/{id}`                                 | id (string)                      | `{ "clinic": { ... } }`          | Detalles completos de la clínica específica.                              |
+| /appointments      | Reservar cita médica             | POST           | `/appointments`                                 | clinic_id (string), date (string), time (string) | `{ "appointment": { ... } }` | Confirmación de la reserva de cita médica.                                |
+| /appointments/{id} | Confirmación de la reserva       | GET            | `/appointments/{id}`                            | id (string)                      | `{ "appointment": { ... } }`     | Confirmación de detalles de la cita médica.                               |
+| /clinics/{id}/map  | Ver ubicación de la clínica      | GET            | `/clinics/{id}/map`                             | id (string)                      | `{ "map_url": "url" }`           | URL del mapa con la ubicación de la clínica.                               |
+| /profile           | Crear perfil de usuario           | POST           | `/profile`                                      | user_info (object)               | `{ "profile": { ... } }`         | Confirmación de la creación del perfil del usuario.                        |
+| /profile/{id}      | Actualizar perfil de usuario      | PUT            | `/profile/{id}`                                 | id (string), user_info (object)  | `{ "profile": { ... } }`         | Confirmación de la actualización del perfil del usuario.                   |
+
+### Capturas de Pantalla
+
+1. **Endpoint de Inicio de Sesión**
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+
+2. **Endpoint de Comparación de Clínicas**
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
+
+3. **Endpoint de Reserva de Citas**
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
+
+
 
 ### 5.2.X.7. Software Deployment Evidence for Sprint Review. 
 
