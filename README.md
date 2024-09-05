@@ -38,7 +38,7 @@
 | 27/08/2024  | 1.1      |  Cuevas José              | Actualización del informe needfinding, user persona, as-is scenario mapping                             |
 | 28/08/2024  | 1.2      |  Diego Alonso | Elaboración de User Stories, Product Backlog e Impact Mapping          |
 | 30/08/2024  | 1.3      |  Rodrigo Alcántara             | Elaboracion del Landing Page          |
-| 01/09/2024  | 1.4      |               | Elaboración de los diagramas C4 y mejora de los User Stories           |
+| 01/09/2024  | 1.4      |  Jack Tello             | Elaboración de los diagramas C4 y mejora de los User Stories           |
 | 05/09/2024  | 1.5      |                 | Incorporación del diagrama de clases y modelado del diseño de base de datos |
 | 05/09/2024  | 1.6    |Luis Cisneros                 | Landing Page UI Design,Landing Page Wireframe,Landing Page Mock-up,Web Applications UX/UI Design,Web Applications Wireframes,Web Applications Wireflow Diagrams,Web Applications Mock-ups,Web Applications User Flow Diagrams,Web Applications Prototyping|
 
