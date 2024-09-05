@@ -37,8 +37,9 @@
 | 20/08/2024  | 1.0      |  Rodrigo Alcántara              | Creación de nuestro repositorio e inicio en Capítulo 1                 |
 | 27/08/2024  | 1.1      |  Cuevas José              | Actualización del informe needfinding, user persona, as-is scenario mapping                             |
 | 28/08/2024  | 1.2      |  Diego Alonso | Elaboración de User Stories, Product Backlog e Impact Mapping          |
-| 01/09/2024  | 1.3      |               | Elaboración de los diagramas C4 y mejora de los User Stories           |
-| 06/09/2024  | 1.4      |                 | Incorporación del diagrama de clases y modelado del diseño de base de datos |
+| 30/08/2024  | 1.3      |  Rodrigo Alcántara             | Elaboracion del Landing Page          |
+| 01/09/2024  | 1.4      |               | Elaboración de los diagramas C4 y mejora de los User Stories           |
+| 05/09/2024  | 1.5      |                 | Incorporación del diagrama de clases y modelado del diseño de base de datos |
 
 ---
 
