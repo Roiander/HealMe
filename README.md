@@ -709,6 +709,19 @@ El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsMock-ups.jpg)
 
 ### 4.4.3. Web Applications User Flow Diagrams. 
+
+User Goal 1: comprar calificacion de medicamentos
+Personas 
+User Story: Como usuario que busca un medicamento, quiero comparar las calificaciones y reseñas de distintos medicamentos, para elegir la opción más efectiva y segura según la experiencia de otros usuarios.
+
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/User1.png)
+
+User Goal 2:Poder separar o reservar una cita médica de manera rápida y sencilla.
+
+User Sotory:Como usuario que necesita una consulta médica, quiero poder reservar una cita de forma rápida y sin complicaciones, para asegurarme de obtener atención médica en el momento que lo necesite.
+
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/User2.png)
+
 ### 4.5. Web Applications Prototyping. 
 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1.jpg)
