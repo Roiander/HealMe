@@ -721,3 +721,67 @@ El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
 
 ### 4.6. Domain-Driven Software Architecture. 
+### 4.6.1. Software Architecture Context Diagram. 
+### 4.6.2. Software Architecture Container Diagrams. 
+### 4.6.3. Software Architecture Components Diagrams. 
+### 4.7. Software Object-Oriented Design. 
+### 4.7.1. Class Diagrams. 
+
+### 4.7.2. Class Dictionary. 
+### 4.8. Database Design. 
+### 4.8.1. Database Diagram. 
+
+## Capítulo V: Product Implementation, Validation & Deployment 
+5.1. Software Configuration Management. 
+5.1.1. Software Development Environment Configuration. 
+Para el desarrollo de nuestro proyecto Usaremos webstorm, lo hemos dividido en 2 partes, uno el landing page donde se usará javascript, html y css , en la aplicación web utilizaremos Vue.js como framework de javascript, también se utilizará HTML ya que principalmente se encarga de este tipo de proyectos y completamos con CSS para agregar estética.
+
+5.1.2. Source Code Management. 
+Github Desktop es una aplicación de código abierto que ayuda a trabajar con código hospedado en github u otros servicios de hospedaje de Git. Contamos con 2 repositorios en Github , el primero es donde está el landing page y el segundo es donde están los criterios de aceptación.
+
+
+(https://github.com/Roiander/HealMe)
+(link del repo 2 (proceso)
+
+5.1.3. Source Code Style Guide & Conventions.
+
+En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codificación para tener coherencia y código limpio en el proyecto. Nos apoyaremos con la guía oficial de Vue, tomando esto en cuenta cumpliremos con tener un código limpio y coherente.
+
+
+ 5.1.4. Software Deployment Configuration. 
+ Evidencia del deploy
+ 
+![Screenshot_1](https://hackmd.io/_uploads/SJ0gQLX20.jpg)
+
+![Screenshot_2](https://hackmd.io/_uploads/BylEQLXhC.jpg)
+
+![Screenshot_3](https://hackmd.io/_uploads/BJ9q7U7hR.jpg)
+
+
+5.2. Landing Page, Services & Applications Implementation. 
+5.2.X. Sprint n 
+5.2.X.1. Sprint Planning n. 
+| Sprint#                       | Sprint 1                                |
+|-------------------------------|-----------------------------------------|
+| **Sprint Planning Background** |                                         |
+| Date                           | 2024-08-28                              |
+| Time                           | 3:22                                    |
+| Location                       | Reunión virtual realizada en Discord     |
+| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
+| Attendees (to planning meeting)| -Cuevas Vera, José Angel,Alonso Garay, Diego Jesús,Roque Tello, Jack Eddie, Cisneros Salas, Luis Angel, Alcántara Cruz Rodrigo Alonso                   |
+| **Sprint n - 1 Review Summary**| Avanzar el landing page y brindar sugerencias para el estilo de la página |
+| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de completar el landing page para nuestro proyecto |
+| **Sprint Goal & User Stories** |                                         |
+| Sprint n Goal                  | El objetivo que tenemos es mejorar las funcionalidades de la página web, por ahora hemos agregado el contactenos, nos falta el log in y register |
+| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
+| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+
+5.2.X.2. Sprint Backlog n. 
+5.2.X.3. Development Evidence for Sprint Review. 
+5.2.X.4. Testing Suite Evidence for Sprint Review. 
+5.2.X.5. Execution Evidence for Sprint Review. 
+5.2.X.6. Services Documentation Evidence for Sprint Review. 
+5.2.X.7. Software Deployment Evidence for Sprint Review. 
+5.2.X.8. Team Collaboration Insights during Sprint.
+
+
