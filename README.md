@@ -421,6 +421,16 @@ Viajeros y turistas que necesitan acceso rápido a servicios médicos en ciudade
 
 Centros médicos y clínicas que desean aumentar su visibilidad y accesibilidad para atraer más pacientes.
 
+User Benefits
+
+Agendar citas médicas de manera rápida y sin complicaciones.
+
+Acceder a una variedad de opciones de proveedores de salud en un solo lugar.
+
+Obtener información clara y transparente sobre los costos de los servicios médicos para tomar decisiones informadas.
+
+Facilitar el acceso a servicios médicos mientras están en una ubicación desconocida.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
