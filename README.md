@@ -882,9 +882,55 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 ![image](https://github.com/user-attachments/assets/9bd760c4-d313-4bc2-9df0-9b482ba83e45)
 
 
-
-
 ### 5.2.X.7. Software Deployment Evidence for Sprint Review. 
+
+## Software Deployment Evidencia para la Revisión del Sprint
+
+### Introducción
+Durante este Sprint, se han desplegado varios componentes clave de la plataforma "HEALME". A continuación, se detallan los procesos de despliegue para los siguientes endpoints: Creación de Perfil, Inicio de Sesión, Reserva de Citas, Confirmación de Cita, y Comparación de Citas.
+
+### Actividades Realizadas
+
+1. **Creación de Perfil de Usuario**
+   - **Proceso de Despliegue:**
+     - Se configuró el endpoint para permitir a los usuarios crear un perfil personal.
+     - Se implementaron validaciones para asegurar la correcta entrada de datos.
+     - Se realizó la integración con la base de datos para almacenar la información del perfil.
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de creación de perfil de usuario.
+
+2. **Inicio de Sesión**
+   - **Proceso de Despliegue:**
+     - Se implementó el endpoint para el inicio de sesión de usuarios.
+     - Se configuraron mecanismos de autenticación y autorización.
+     - Se integró el endpoint con el sistema de gestión de sesiones y seguridad.
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
+   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de inicio de sesión.
+
+3. **Reserva de Citas Médicas**
+   - **Proceso de Despliegue:**
+     - Se configuró el endpoint para permitir a los usuarios reservar citas médicas.
+     - Se implementaron funcionalidades para seleccionar la clínica, fecha y hora.
+     - Se integró con el sistema de gestión de citas para asegurar la disponibilidad.
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
+   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de reserva de citas médicas.
+
+4. **Confirmación de Cita**
+   - **Proceso de Despliegue:**
+     - Se implementó el endpoint para confirmar la reserva de citas médicas.
+     - Se configuró el envío de notificaciones de confirmación por email y en la plataforma.
+     - Se integró con el sistema de gestión de citas para registrar la confirmación.
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
+   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de confirmación de cita médica.
+
+5. **Comparación de Citas**
+   - **Proceso de Despliegue:**
+     - Se configuró el endpoint para permitir a los usuarios comparar varias clínicas.
+     - Se implementó la funcionalidad para mostrar calificaciones y precios lado a lado.
+     - Se integró con el sistema de datos de clínicas para obtener la información necesaria.
+   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
+   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de comparación de citas médicas.
+
 
 
 ### 5.2.X.8. Team Collaboration Insights during Sprint.
