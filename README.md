@@ -1045,34 +1045,34 @@ Durante este Sprint, se han desplegado varios componentes clave de la plataforma
 1. **Creación de Perfil de Usuario**
    - **Proceso de Despliegue:**
      - Se configuró el endpoint para permitir a los usuarios crear un perfil personal.
-     - Se implementaron validaciones para asegurar la correcta entrada de datos.
+     - Implementación de validaciones para asegurar la correcta entrada de datos.
    - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
    - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de creación de perfil de usuario.
 
 2. **Inicio de Sesión**
    - **Proceso de Despliegue:**
-     - Se implementó el endpoint para el inicio de sesión de usuarios.
-     - Se configuraron mecanismos de autenticación y autorización.
+     - Se implementará el endpoint para el inicio de sesión de usuarios.
+     - Implementación mecanismos de autenticación y autorización.
    - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
    - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de inicio de sesión.
 
 3. **Reserva de Citas Médicas**
    - **Proceso de Despliegue:**
-     - Se configuró el endpoint para permitir a los usuarios reservar citas médicas.
+     - Se configurará el endpoint para permitir a los usuarios reservar citas médicas.
    - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
    - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de reserva de citas médicas.
 
 4. **Confirmación de Cita**
    - **Proceso de Despliegue:**
-     - Se implementó el endpoint para confirmar la reserva de citas médicas.
-     - Se integró con el sistema de gestión de citas para registrar la confirmación.
+     - Se implementará el endpoint para confirmar la reserva de citas médicas.
+     - Integración de un sistema de gestión de citas para registrar la confirmación.
    - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
    - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de confirmación de cita médica.
 
 5. **Comparación de Citas**
    - **Proceso de Despliegue:**
-     - Se configuró el endpoint para permitir a los usuarios comparar varias clínicas.
-     - Se integró con el sistema de datos de clínicas para obtener la información necesaria.
+     - Se configurará el endpoint para permitir a los usuarios comparar varias clínicas.
+     - Implementación de un sistema de datos de clínicas para obtener la información necesaria.
    - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
    - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de comparación de citas médicas.
 
