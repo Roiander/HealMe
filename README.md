@@ -59,6 +59,7 @@
 |  Rodrigo Alcántara,          | Startup Profile, Solution Profile, Lean UX, Segmentos Objetivo, Landing Page      |
 | Diego Alonso          | User Stories, Product Backlog e Impact Mapping |
 |    Luis Cisneros    | Landing Page UI Design,Landing Page Wireframe,Landing Page Mock-up,Web Applications UX/UI Design,Web Applications Wireframes,Web Applications Wireflow Diagrams,Web Applications Mock-ups,Web Applications User Flow Diagrams,Web Applications Prototyping|
+|    Jack Tello       | Competidores, Analisis competitivo, diseño de entrevistas, Software Architecture Context Diagram, Software Architecture Container Diagram
 |     | Diseño de la landing page y desarrollo de la interfaz                             |
 
 ---
