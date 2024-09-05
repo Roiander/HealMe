@@ -739,6 +739,58 @@ Sanitas cuenta con un sitio web que ofrece múltiples canales de contacto, los c
     </tbody>
 </table>
 
+###    2.1.2. Estrategias y tácticas frente a competidores. 
+<cite>Según Michael Porter, la estrategia competitiva implica cómo una empresa compite en su mer- cado específico. Porter identificó tres estrategias generales que las empresas pueden emplear para competir con éxito: liderazgo en costos, diferenciación y enfoque. La estrategia de liderazgo en costos implica ofrecer productos o servicios a precios más bajos que los de los competidores, mientras que la diferenciación se basa en ofrecer productos y servicios únicos y distintivos. Por otro lado, una estrategia de enfoque se centra en un segmento de mercado específico. Para llevar a cabo eficazmente estas estrategias, las empresas necesitan tener un profundo conoci- miento de sus mercados y competidores para desarrollar y mantener una ventaja competitiva sostenible a largo plazo.</cite>
+
+Teniendo en cuenta el análisis SWOT previamente presentado para HealMe, proponemos las siguientes estrategias competitivas:
+
+**Estrategias competitivas para HealMe**
+
+**1. Estrategia de Liderazgo en Costos**
+Estrategia: Optimizar los costos operativos de HealMe para ofrecer un servicio de alta calidad a precios competitivos y sin costos iniciales para los usuarios. Tácticas:
+
+Tecnología Eficiente: Implementar tecnologías de vanguardia para mejorar la eficiencia operativa y reducir costos asociados a la infraestructura.
+
+Negociaciones Favorables: Establecer acuerdos ventajosos con centros de salud para minimizar costos iniciales y gastos operativos.
+
+Modelo de Cero Costo Inicial: Ofrecer acceso gratuito a la plataforma para los usuarios, atrayendo así a una base de clientes más amplia.
+
+**2. Diferenciación a través de la Innovación**
+Estrategia: Desarrollar y promover características únicas de HealMe que resalten la plataforma como la opción más innovadora para la búsqueda de atención médica.
+
+Tácticas:
+
+Funcionalidades Exclusivas: Incorporar características innovadoras como la integración de información sobre condiciones climáticas y recomendaciones médicas personalizadas.
+Inversión en I+D: Continuar invirtiendo en investigación y desarrollo para mejorar la plataforma y ofrecer nuevas funcionalidades.
+Promoción Activa: Utilizar campañas de marketing para destacar las características avanzadas y los beneficios únicos de HealMe.
+
+**3. Enfoque en Segmentos Específicos del Mercado**
+Estrategia: Especializarse en atender a turistas y viajeros en Perú, ofreciendo soluciones adaptadas a sus necesidades particulares. 
+
+Tácticas:
+
+Identificación de Segmentos Clave: Focalizarse en turistas y viajeros que requieren atención médica durante su estancia en Perú.
+Desarrollo de Paquetes Especializados: Crear paquetes y servicios personalizados para este segmento, como información sobre atención médica en destinos específicos.
+Colaboraciones Locales: Establecer alianzas con operadores turísticos y agencias de viaje para promocionar HealMe entre sus clientes.
+
+**4.Estrategia de Alianzas Estratégicas**
+Estrategia: Formar alianzas estratégicas con centros de salud y organizaciones locales para expandir la red de servicios y aumentar el alcance de HealMe.
+
+Tácticas:
+
+Asociaciones con Centros de Salud: Colaborar con una amplia gama de centros de salud, asegurando cobertura en diversas áreas y aumentando la oferta de servicios.
+Colaboraciones con Organizaciones de Turismo: Asociarse con empresas de turismo y agencias de viajes para integrarse en sus servicios y ofrecer HealMe como una solución recomendada.
+Programas de Referencias: Implementar programas de referencia con centros de salud y otras entidades para atraer nuevos usuarios y centros asociados.
+
+**5. Estrategia de Marketing Diferenciado**
+Estrategia: Desarrollar campañas de marketing que resalten las ventajas únicas de HealMe y sus beneficios para los usuarios. 
+
+Tácticas:
+
+Contenido Educativo: Crear y distribuir contenido educativo que informe a los usuarios sobre cómo HealMe puede resolver sus necesidades específicas de atención médica durante sus viajes.
+Testimonios y Casos de Éxito: Utilizar testimonios de usuarios satisfechos y casos de éxito para demostrar la efectividad y valor de HealMe.
+Campañas en Redes Sociales: Aprovechar las redes sociales para llegar a un público más amplio y promover las características únicas de la plataforma.
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
