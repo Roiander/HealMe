@@ -588,9 +588,14 @@ User Goal 1: Seleccionar un doctor basado en su disponibilidad y calificaciones
 
 El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de "Doctores". En este, seleccionará la opción "Ver Doctores Disponibles". A continuación, se le mostrará una lista de doctores organizada por especialidad y centro médico. El usuario podrá filtrar los resultados según especialidad, ubicación, calificaciones o disponibilidad. La aplicación mostrará una lista de doctores disponibles, junto con sus calificaciones y opiniones de otros pacientes. El usuario podrá seleccionar un doctor específico para ver su perfil, que incluirá información detallada como experiencia, estudios, horarios disponibles, precios de consulta y valoraciones. Si el usuario está satisfecho con la selección, podrá proceder a reservar una cita con el doctor. Finalmente, la página le mostrará un mensaje confirmando la reserva de la cita.
 
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Usergoal1.jpg)
+
 User Goal 2: Comparar precios y alternativas de medicamentos
 
 El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de "Medicamentos". En este, seleccionará la opción "Comparar Medicamentos". A continuación, se le pedirá que ingrese el nombre del medicamento que desea comparar. La aplicación le mostrará una lista de opciones disponibles, incluyendo diferentes marcas, presentaciones, precios y farmacias donde pueden adquirirse. El usuario podrá filtrar los resultados según precio, cercanía de la farmacia o disponibilidad del medicamento. También tendrá la opción de ver alternativas genéricas o sustitutos recomendados. Una vez seleccionada la opción más conveniente, el usuario podrá proceder a comprar el medicamento directamente desde la aplicación o guardar la información para su referencia. Finalmente, la página le mostrará un resumen de la comparación realizada y los pasos siguientes para adquirir el medicamento.
+
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/Usergoal2.jpg)
+
 ### 4.4.2. Web Applications Mock-ups. 
 
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsMock-ups.jpg)
@@ -598,13 +603,13 @@ El usuario entrará a la aplicación y, una vez dentro, buscará el apartado de 
 ### 4.4.3. Web Applications User Flow Diagrams. 
 ### 4.5. Web Applications Prototyping. 
 
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping4)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping5)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping6)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping1.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping4.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping5.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping6.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
+![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
 
 ### 4.6. Domain-Driven Software Architecture. 
