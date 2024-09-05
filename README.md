@@ -393,6 +393,16 @@ Business problem
 
 La dificultad para agendar citas médicas de manera rápida y eficiente, la complejidad en el acceso a múltiples proveedores de salud y la falta de transparencia en los precios de los servicios médicos, estas experiencias suelen ser muy insatisfactorias para los pacientes.
 
+Solution ideas
+
+Una plataforma web centralizada que permita a los pacientes el poder agendar citas con múltiples centros de salud desde un solo lugar.
+
+Funcionalidad de búsqueda por ubicación para encontrar centros de salud cercanos a su ubicación.
+
+Transparencia en los precios de los servicios médicos, permitiendo a los usuarios comprar costos.
+
+Integración de recordatorios automáticos y seguimiento de citas para mejorar la experiencia del paciente 
+
 ## 2.3. Needfinding
 
 El **Needfinding** en este proyecto se basa en la metodología Lean UX, que enfatiza la iteración rápida y la colaboración continua con los usuarios. Este enfoque nos permite descubrir y validar las necesidades reales de los usuarios para asegurar que las soluciones propuestas resuelvan problemas específicos y relevantes.
