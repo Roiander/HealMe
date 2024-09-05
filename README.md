@@ -370,6 +370,13 @@ Problem 2: El acceso a diferentes proveedores de atención médica obliga a los 
 
 Problem 3: Los precios de los test clínicos resultan en costos inesperados para los pacientes que no pueden comparar los precios de diferentes médicos.
 
+#### 1.2.2.2. Lean UX Assumptions.
+
+Assumption 1: los pacientes necesitan una plataforma centralizada que les permite reservar citas con varios profesionales de la salud sin tener que navegar por varios sitios web.
+
+Assumption 2: La fijación de precios transparente y transparente para el tratamiento aumenta la satisfacción del paciente y la confianza en la plataforma.
+
+Assumption 3: Cada vez un número mayor de pacientes, especialmente viajeros o turistas, utilizan servicios que facilitan el acceso rápido a citas médicas en lugares desconocidos.
 
 ## 2.3. Needfinding
 
