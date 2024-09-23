@@ -1398,8 +1398,8 @@ En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codific
 
 
 5.2. Landing Page, Services & Applications Implementation. 
-5.2.X. Sprint n 
-5.2.X.1. Sprint Planning n. 
+5.2.1. Sprint 1 
+5.2.1.1. Sprint Planning n. 
 | Sprint#                       | Sprint 1                                |
 |-------------------------------|-----------------------------------------|
 | **Sprint Planning Background** |                                         |
@@ -1415,7 +1415,7 @@ En nuestro proyecto basado en Vue.js es esencial establecer un estilo de codific
 | Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
 | Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
 
-### 5.2.X.2. Sprint Backlog n. 
+### 5.2.1.2. Sprint Backlog n. 
 
 ### Sprint 1
 
@@ -1437,7 +1437,7 @@ Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab
 
 
 
-### 5.2.X.3. Development Evidence for Sprint Review. 
+### 5.2.1.3. Development Evidence for Sprint Review. 
 
 ### Sprint 1
 
@@ -1449,7 +1449,7 @@ En este Sprint, hemos logrado implementar las funcionalidades principales de la 
 |  Healme  |  main  |    index.html   |      index.html file added           |       Landing Added      | 2024-09-01              |
 
 
-### 5.2.X.4. Testing Suite Evidence for Sprint Review. 
+### 5.2.1.4. Testing Suite Evidence for Sprint Review. 
 
 Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correcto funcionamiento de los Web Services relacionados con los User Stories especificados. Se desarrollaron Unit Tests, Integration Tests, y Acceptance Tests utilizando el enfoque BDD. Las pruebas abarcaron funcionalidades como búsqueda de clínicas, reserva de citas médicas y manejo del perfil de usuario.
 
@@ -1460,7 +1460,7 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 | Healme      | main         | US-006.feature       | Create US-006.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
 | Healme      | main         | US-009.feature       | Create US-009.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
 
-### 5.2.X.5. Execution Evidence for Sprint Review. 
+### 5.2.1.5. Execution Evidence for Sprint Review. 
 
 1. **Inicio de sesión**: Se implementó la funcionalidad de inicio de sesión con autenticación de usuarios y manejo de sesiones.
 ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
@@ -1502,7 +1502,7 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 ![image](https://github.com/user-attachments/assets/9bd760c4-d313-4bc2-9df0-9b482ba83e45)
 
 
-### 5.2.X.7. Software Deployment Evidence for Sprint Review. 
+### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
 
 ## Software Deployment Evidencia para la Revisión del Sprint
 
@@ -1547,7 +1547,7 @@ Durante este Sprint, se han desplegado varios componentes clave de la plataforma
 
 
 
-### 5.2.X.8. Team Collaboration Insights during Sprint.
+### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 Para el desarrollo de la primera versión de la plataforma, el equipo realizó el trabajo de forma colaborativa y equitativa. En la siguiente tabla se mostrará la relación que posee cada integrante y las estadísticas de sus commits.
 
@@ -1561,5 +1561,38 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 
 ![image](https://github.com/user-attachments/assets/601ca4c4-3a66-42e7-a041-378c44daf594)
 
+### 5.2.2. Sprint 2 
 
+5.2.2.1. Sprint Planning n
 
+| Sprint#                       | Sprint 2                                |
+|-------------------------------|-----------------------------------------|
+| **Sprint Planning Background** |                                         |
+| Date                           | 2024-08-28                              |
+| Time                           | 10:12                                    |
+| Location                       | Reunión virtual realizada en Discord     |
+| Prepared By                    | Alcántara Cruz Rodrigo Alonso           |
+| Attendees (to planning meeting)| Diego Jesús Alonso Garay, Alcántara Cruz Rodrigo Alonso                   |
+| **Sprint n - 1 Review Summary**| Avanzar la primera version de HealMe |
+| **Sprint n-1 Retrospective Summary** | Se destacó la importancia de avanzar la app web para nuestro proyecto |
+| **Sprint Goal & User Stories** |                                         |
+| Sprint n Goal                  | El objetivo que tenemos es implementar los routes para que el toolbar redirija a otras funcionalidades de la app |
+| Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
+| Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
+
+### 5.2.2.2. Sprint Backlog n. 
+
+### Sprint 2
+
+### Objetivo Principal del Sprint
+
+El objetivo principal del Sprint 2 es implementar las funcionalidades básicas de la plataforma HealMe, que incluyen el inicio de sesión de usuarios, la capacidad de reservar citas médicas, y la visualización del historial de citas. Además, se busca implementar las notificaciones de confirmación de reserva.
+
+Enlace del sprint en Trello: https://trello.com/invite/b/66da07a121d7f4b87735bab5/ATTI5580c46e73dbba23538e9fcb71477cfdBCAAB835/sprint-healme
+
+### Tabla del Sprint Backlog
+
+| **User Story ID**  | **Título**                        | **Work-Item/Task ID**  | **Título**                        | **Descripción**                                                                 | **Estimación (Horas)** | **Asignado a** | **Estado (To-Do / In-Process / To-Review / Done)** |
+|--------------------|-----------------------------------|------------------------|-----------------------------------|---------------------------------------------------------------------------------|------------------------|----------------|----------------------------------------------------|
+| US-00x             | Acceder a la app web          | TSK-00x                | Poder acceder a la app web de healme          | Implementar la interfaz para que los usuaros puedan acceder a la pagina  | 8                     | Rodrigo           | In-Process                                         |
+| US-00x             | Implementacion de rutas para que los usuarios puedan acceder a las funcionalidades           | TSK-00x                | Acceder a componentes del toolbar     | Implementar las rutas para el toolbar       | 4                     | Diego          | In-Process                                         |
