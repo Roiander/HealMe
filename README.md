@@ -1461,28 +1461,17 @@ Durante este Sprint, se realizaron pruebas automatizadas para asegurar el correc
 | Healme      | main         | US-009.feature       | Create US-009.feature          | Añadido del Acceptance-Test.                      | 2024-09-05              |
 
 ### 5.2.1.5. Execution Evidence for Sprint Review. 
+Aqui mostramos la evidencia del landing page
+En el landing page tenemos un about us para poder informar al usuario que servicio ofrecemos, el landing page tambien cuenta con un sistema de reseñas para que el usuario pueda ver comentarios de otros usuarios.
 
-1. **Inicio de sesión**: Se implementó la funcionalidad de inicio de sesión con autenticación de usuarios y manejo de sesiones.
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping4.jpg)
-2. **Reserva de citas**: Los usuarios ahora pueden reservar citas a través de la plataforma. Se agregó un formulario de reserva y lógica para guardar las reservas en la base de datos.
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping5.jpg)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
-3. **Historial de citas**: Se desarrolló la página donde los usuarios pueden ver el historial de citas que han tenido anteriormente.
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping6.jpg)
-4. **Confirmación de reserva**: Se añadió una página de confirmación que se muestra después de que una reserva es exitosa, además de enviar notificaciones por correo electrónico.
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
-5. **Comparación de clínicas**: Se agregó la función de comparar clínicas por calificaciones y reseñas de otros usuarios.
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
-![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications8.jpg)
+![Screenshot_3](https://hackmd.io/_uploads/BJ9q7U7hR.jpg)
 
    
 ### 5.2.X.6. Services Documentation Evidence for Sprint Review. 
 ## Servicios Documentación Evidencia para la Revisión del Sprint
 
 ### Introducción
-Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma.
+Durante este Sprint, hemos logrado documentar los servicios web relacionados con la plataforma "HEALME". La documentación incluye los endpoints que pronto se implemetarán, describiendo las acciones soportadas, verbos HTTP, parámetros, y ejemplos de respuestas. Esta sección proporciona una visión general de los endpoints desarrollados y su integración con la plataforma. (estan en proceso)
 
 | **Endpoint**       | **Acción Implementada**          | **Verbo HTTP** | **Sintaxis de Llamada**                         | **Parámetros**                    | **Ejemplo de Response**          | **Explicación del Response**                                               |
 |--------------------|---------------------------------|----------------|-------------------------------------------------|----------------------------------|----------------------------------|---------------------------------------------------------------------------|
@@ -1505,45 +1494,12 @@ Durante este Sprint, hemos logrado documentar los servicios web relacionados con
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review. 
 
 ## Software Deployment Evidencia para la Revisión del Sprint
+Aqui hay una evidencia de que se ha hecho un deploy, se adjunta el link: https://roiander.github.io/HealMe/
 
-### Introducción
-Durante este Sprint, se han desplegado varios componentes clave de la plataforma "HEALME". A continuación, se detallan los procesos de despliegue para los siguientes endpoints: Creación de Perfil, Inicio de Sesión, Reserva de Citas, Confirmación de Cita, y Comparación de Citas.
+Se evidencia las funcionalidades del landing page y se muestra la informacion del producto.
 
-### Actividades Realizadas
+![image](https://github.com/user-attachments/assets/a5e56dfe-7421-44ea-8b35-6d32cadcefd0)
 
-1. **Creación de Perfil de Usuario**
-   - **Proceso de Despliegue:**
-     - Se configuró el endpoint para permitir a los usuarios crear un perfil personal.
-     - Implementación de validaciones para asegurar la correcta entrada de datos.
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping3.jpg)
-   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de creación de perfil de usuario.
-
-2. **Inicio de Sesión**
-   - **Proceso de Despliegue:**
-     - Se implementará el endpoint para el inicio de sesión de usuarios.
-     - Implementación mecanismos de autenticación y autorización.
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping2.jpg)
-   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de inicio de sesión.
-
-3. **Reserva de Citas Médicas**
-   - **Proceso de Despliegue:**
-     - Se configurará el endpoint para permitir a los usuarios reservar citas médicas.
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping7.jpg)
-   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de reserva de citas médicas.
-
-4. **Confirmación de Cita**
-   - **Proceso de Despliegue:**
-     - Se implementará el endpoint para confirmar la reserva de citas médicas.
-     - Integración de un sistema de gestión de citas para registrar la confirmación.
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplicationsPrototyping8.jpg)
-   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de confirmación de cita médica.
-
-5. **Comparación de Citas**
-   - **Proceso de Despliegue:**
-     - Se configurará el endpoint para permitir a los usuarios comparar varias clínicas.
-     - Implementación de un sistema de datos de clínicas para obtener la información necesaria.
-   - **Captura:** ![image alt](https://github.com/LuisCS341/ImagenProyecto/raw/main/WebApplications7.jpg)
-   - **Descripción:** Muestra el proceso y los resultados del despliegue del endpoint de comparación de citas médicas.
 
 
 
@@ -1563,7 +1519,7 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 
 ### 5.2.2. Sprint 2 
 
-5.2.2.1. Sprint Planning n
+5.2.2.1. Sprint Planning 2
 
 | Sprint#                       | Sprint 2                                |
 |-------------------------------|-----------------------------------------|
@@ -1580,7 +1536,7 @@ Para el desarrollo de la primera versión de la plataforma, el equipo realizó e
 | Sprint n Velocity              | Para nuestro sprint el equipo ha establecido la escala Fibonacci para así determinar la complejidad del tiempo de elaboración. |
 | Sum of Story Points            |  De momento no hemoc cumplido los user stories por que aun esta en desarrollo la app web                                     |
 
-### 5.2.2.2. Sprint Backlog n. 
+### 5.2.2.2. Sprint Backlog 2. 
 
 ### Sprint 2
 
