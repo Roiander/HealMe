@@ -1363,7 +1363,9 @@ User Sotory:Como usuario que necesita una consulta médica, quiero poder reserva
 ![image alt](./assets/img/diagram3.jpeg)
 
 ### 4.7. Software Object-Oriented Design. 
-### 4.7.1. Class Diagrams. 
+### 4.7.1. Class Diagrams.
+
+![image alt](./assets/img/DiagramaClase.png)
 
 ### 4.7.2. Class Dictionary. 
 ### 4.8. Database Design. 
